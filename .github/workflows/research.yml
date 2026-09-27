@@ -1,0 +1,9 @@
+name: Research records
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  records:
+    uses: lijiabao1998/FrontierLab-Governance/.github/workflows/research.yml@091d6a26a4af8522683711483f2b97afd90efa7f
+    with:
+      governance_ref: 091d6a26a4af8522683711483f2b97afd90efa7f

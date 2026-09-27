@@ -1,0 +1,27 @@
+{
+  "id": "EARTH-007",
+  "domain": "earth",
+  "title": "海洋carbon pump與長期feedback",
+  "status": "OPEN",
+  "priority": "B",
+  "checked_on": "2026-09-28",
+  "statement": "量化circulation、solubility、biology與alkalinity在multi-centennial warming下對ocean carbon uptake的相對貢獻。",
+  "known_result": "2026 Nature Climate Change研究顯示高排放情境下circulation changes對長期marine carbon feedback可能占主導，但mechanism contributions仍有uncertainty。",
+  "open_gap": "model structural uncertainty、deep-ocean equilibration、biological compensation與future forcing。",
+  "first_task": "用盒模型重現circulation/solubility/biology分解，再與一個公開model output summary對拍。",
+  "evaluator": "carbon conservation、component attribution、scenario sensitivity。",
+  "validation_limits": "單一Earth-system model分解不代表真實唯一機制。",
+  "completion_criterion": "跨多model/observation constraints保持同一mechanism ordering或明確界定分歧。",
+  "screening_note": "2026-09-28 初始有界文獻篩查；每輪需重查最新資料、修訂與事件。OPEN不代表全網無解。",
+  "screening_queries": [
+    "marine carbon pump warming feedback 2026"
+  ],
+  "sources": [
+    {
+      "title": "Multi-centennial response of marine carbon pumps to global warming",
+      "url": "https://www.nature.com/articles/s41558-026-02686-x",
+      "kind": "primary",
+      "supports": "海洋carbon pumps與multi-centennial feedback"
+    }
+  ]
+}

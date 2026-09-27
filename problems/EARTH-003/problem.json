@@ -1,0 +1,27 @@
+{
+  "id": "EARTH-003",
+  "domain": "earth",
+  "title": "地震forecast與early warning校準",
+  "status": "OPEN",
+  "priority": "A",
+  "checked_on": "2026-09-28",
+  "statement": "在不同forecast horizon下改善地震occurrence/ground-motion probability與real-time warning，同時正確處理極低base rate與false alarms。",
+  "known_result": "Nature 2026 collection聚焦long/short-term forecasting、real-time detection、source characterization及ground motion，明示可靠forecast仍是活躍挑戰。",
+  "open_gap": "rare-event calibration、catalog incompleteness、aftershock dependence、region transfer與warning latency。",
+  "first_task": "用公開catalog做時間blocked baseline，重現Poisson/ETAS類簡單forecast的reliability curve；禁止random split。",
+  "evaluator": "Brier/log score、calibration、alarm rate、lead time、spatial coverage。",
+  "validation_limits": "hindcast高分不代表下一次event可預測；不向使用者發安全警報。",
+  "completion_criterion": "跨未見time/region保持校準且比simple baseline有可重現增益。",
+  "screening_note": "2026-09-28 初始有界文獻篩查；每輪需重查最新資料、修訂與事件。OPEN不代表全網無解。",
+  "screening_queries": [
+    "earthquake forecasting early warning 2026"
+  ],
+  "sources": [
+    {
+      "title": "Earthquake forecasting and early warning",
+      "url": "https://www.nature.com/collections/bfjaccgaaj",
+      "kind": "primary",
+      "supports": "2026地震forecast/EEW研究挑戰範圍"
+    }
+  ]
+}

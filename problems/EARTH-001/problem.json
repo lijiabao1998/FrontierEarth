@@ -1,0 +1,27 @@
+{
+  "id": "EARTH-001",
+  "domain": "earth",
+  "title": "複合氣候極端與累積CO2響應",
+  "status": "OPEN",
+  "priority": "A",
+  "checked_on": "2026-09-28",
+  "statement": "量化heat-drought、hot-wet等compound events對累積CO2與warming的非線性響應，並跨區域/模型驗證。",
+  "known_result": "2026 Nature顯示複合極端對累積CO2的響應可強於單一極端，提供明確的model/observation研究基線。",
+  "open_gap": "compound event definition、dependence structure、regional heterogeneity與model bias。",
+  "first_task": "固定兩個variables和一個region，用公開reanalysis做event-count baseline，對比independence assumption。",
+  "evaluator": "return period、joint tail dependence、bootstrap uncertainty、model/reanalysis agreement。",
+  "validation_limits": "event threshold事後挑選會放大signal；歷史關聯不自動等於因果。",
+  "completion_criterion": "跨預註冊regions與datasets保持方向/幅度一致並有明確physical attribution。",
+  "screening_note": "2026-09-28 初始有界文獻篩查；每輪需重查最新資料、修訂與事件。OPEN不代表全網無解。",
+  "screening_queries": [
+    "compound climate extremes cumulative CO2 2026"
+  ],
+  "sources": [
+    {
+      "title": "Enhanced response of extreme compound events to cumulative CO2 emissions",
+      "url": "https://www.nature.com/articles/s41586-026-10544-1",
+      "kind": "primary",
+      "supports": "compound extremes與累積CO2的近期定量研究"
+    }
+  ]
+}

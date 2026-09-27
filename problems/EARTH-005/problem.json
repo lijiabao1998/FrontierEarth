@@ -1,0 +1,27 @@
+{
+  "id": "EARTH-005",
+  "domain": "earth",
+  "title": "多成因海嘯即時預測",
+  "status": "OPEN",
+  "priority": "B",
+  "checked_on": "2026-09-28",
+  "statement": "整合seismic、GNSS、ocean observations與remote sensing，處理地震、landslide、volcanic等不同trigger的tsunami detection/forecast。",
+  "known_result": "2026 review指出非地震海嘯缺乏清楚seismic signal，deep-ocean observations也仍稀疏。",
+  "open_gap": "source mechanism identification、ocean sensor gaps、near-field latency與inundation uncertainty。",
+  "first_task": "用toy shallow-water model與兩種source mechanism建立同seismic amplitude不同tsunami結果的negative control。",
+  "evaluator": "arrival time、wave height interval、source classification、false negative。",
+  "validation_limits": "簡化source/model不等於實際warning；不作個人撤離指示。",
+  "completion_criterion": "對多source benchmark保持校準並在held-out events重現arrival/inundation uncertainty。",
+  "screening_note": "2026-09-28 初始有界文獻篩查；每輪需重查最新資料、修訂與事件。OPEN不代表全網無解。",
+  "screening_queries": [
+    "tsunami multi source forecasting review 2026"
+  ],
+  "sources": [
+    {
+      "title": "Review on tsunami research and risk mitigation: from prediction models to resilient coastal communities",
+      "url": "https://www.nature.com/articles/s44304-026-00195-7",
+      "kind": "primary",
+      "supports": "多source tsunami forecasting與sensor gaps"
+    }
+  ]
+}

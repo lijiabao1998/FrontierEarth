@@ -1,0 +1,27 @@
+{
+  "id": "EARTH-002",
+  "domain": "earth",
+  "title": "氣候影響歸因的因果鏈",
+  "status": "OPEN",
+  "priority": "B",
+  "checked_on": "2026-09-28",
+  "statement": "把anthropogenic forcing→climate hazard→natural/human impact的每一環明確化，避免把event attribution直接等同impact attribution。",
+  "known_result": "2026 Nature Reviews Earth & Environment整理impact attribution方法、counterfactual design及不同societal uses。",
+  "open_gap": "多重drivers、adaptation/exposure、counterfactual construction與data scarcity。",
+  "first_task": "選一個公開impact time series，畫causal DAG並實作一個簡單counterfactual sensitivity analysis。",
+  "evaluator": "effect estimate、uncertainty、sensitivity to counterfactual/model choice。",
+  "validation_limits": "模型世界不是observed counterfactual；社會暴露變化需分開。",
+  "completion_criterion": "在凍結causal chain及資料下提供可重現、假設透明的attribution interval。",
+  "screening_note": "2026-09-28 初始有界文獻篩查；每輪需重查最新資料、修訂與事件。OPEN不代表全網無解。",
+  "screening_queries": [
+    "climate change impact attribution 2026 review"
+  ],
+  "sources": [
+    {
+      "title": "Approaches, challenges and applications of climate change impact attribution",
+      "url": "https://www.nature.com/articles/s43017-026-00798-8",
+      "kind": "primary",
+      "supports": "impact attribution方法與挑戰"
+    }
+  ]
+}

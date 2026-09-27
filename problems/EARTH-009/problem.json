@@ -1,0 +1,27 @@
+{
+  "id": "EARTH-009",
+  "domain": "earth",
+  "title": "乾旱／水文極端的跨區域泛化",
+  "status": "OPEN",
+  "priority": "B",
+  "checked_on": "2026-09-28",
+  "statement": "建立對不同climate regimes仍校準的drought severity/duration/compound impacts model，處理observational/reanalysis差異。",
+  "known_result": "2026 year-in-review指出2025 drought影響約30% global land surface，區域差異巨大。",
+  "open_gap": "drought definition、soil moisture/precipitation disagreement、teleconnections與nonstationarity。",
+  "first_task": "固定SPI/SPEI或soil-moisture一種定義，做continent-blocked baseline而非random split。",
+  "evaluator": "event recall、severity calibration、lead time、regional error。",
+  "validation_limits": "更換drought definition可改結論；不得事後選最有signal指標。",
+  "completion_criterion": "跨regions/time保持校準並對definition sensitivity透明。",
+  "screening_note": "2026-09-28 初始有界文獻篩查；每輪需重查最新資料、修訂與事件。OPEN不代表全網無解。",
+  "screening_queries": [
+    "global drought extremes 2025 2026 review"
+  ],
+  "sources": [
+    {
+      "title": "Global drought extremes in 2025",
+      "url": "https://www.nature.com/articles/s43017-026-00785-z",
+      "kind": "primary",
+      "supports": "近期全球乾旱分布與區域差異"
+    }
+  ]
+}

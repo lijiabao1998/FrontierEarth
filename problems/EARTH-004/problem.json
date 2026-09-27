@@ -1,0 +1,27 @@
+{
+  "id": "EARTH-004",
+  "domain": "earth",
+  "title": "火山eruption forecast的可靠決策",
+  "status": "OPEN",
+  "priority": "A",
+  "checked_on": "2026-09-28",
+  "statement": "將多sensor precursor轉為校準eruption probability，並把forecast skill與false-alarm/catastrophic-loss decision value分開。",
+  "known_result": "2026 Nature Communications研究直接比較data-driven eruption forecasts在不同false alarm與loss下的societal value。",
+  "open_gap": "cross-volcano transfer、nonstationary precursors、rare eruption labels與utility assumptions。",
+  "first_task": "用synthetic event stream重現accuracy相同但decision value不同的兩個forecast；再做公開volcano資料小回測。",
+  "evaluator": "calibration、lead time、false alarms、expected loss under frozen utility。",
+  "validation_limits": "utility不是物理truth；不同community成本不能私自假設。",
+  "completion_criterion": "forecast probability跨volcano/time保持校準，decision layer另以透明utility評估。",
+  "screening_note": "2026-09-28 初始有界文獻篩查；每輪需重查最新資料、修訂與事件。OPEN不代表全網無解。",
+  "screening_queries": [
+    "volcanic eruption forecasts false alarms 2026"
+  ],
+  "sources": [
+    {
+      "title": "Socio-economic value of data-driven eruption forecasts to balance false alarms against catastrophic loss",
+      "url": "https://www.nature.com/articles/s41467-026-77242-4",
+      "kind": "primary",
+      "supports": "eruption forecast skill與decision value的區分"
+    }
+  ]
+}

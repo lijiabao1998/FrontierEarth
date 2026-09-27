@@ -1,0 +1,27 @@
+{
+  "id": "EARTH-006",
+  "domain": "earth",
+  "title": "海洋／藍碳通量與長期可驗證性",
+  "status": "OPEN",
+  "priority": "B",
+  "checked_on": "2026-09-28",
+  "statement": "在coastal blue-carbon ecosystems中可靠量carbon accumulation、GHG flux、lateral export與management response，避免只看stock。",
+  "known_result": "2026 priority-setting工作由28位專家整理未來十年blue carbon關鍵問題，包含prediction、measurement與lateral fluxes。",
+  "open_gap": "spatial heterogeneity、lateral transport、long-term permanence與measurement harmonization。",
+  "first_task": "選公開小區域資料，畫完整carbon budget並做missing-flux sensitivity。",
+  "evaluator": "mass balance、uncertainty decomposition、cross-method agreement。",
+  "validation_limits": "stock增加不必等於net climate benefit；policy crediting另分層。",
+  "completion_criterion": "在指定ecosystem/time scale閉合budget並跨method/region驗證。",
+  "screening_note": "2026-09-28 初始有界文獻篩查；每輪需重查最新資料、修訂與事件。OPEN不代表全網無解。",
+  "screening_queries": [
+    "blue carbon priority questions 2026"
+  ],
+  "sources": [
+    {
+      "title": "Priority questions for the next decade of blue carbon science",
+      "url": "https://www.nature.com/articles/s41559-026-03020-6",
+      "kind": "primary",
+      "supports": "blue carbon measurement、prediction與lateral flux research gaps"
+    }
+  ]
+}

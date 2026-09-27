@@ -1,0 +1,33 @@
+{
+  "id": "EARTH-008",
+  "domain": "earth",
+  "title": "冰蓋tipping與十年尺度海平面可預測性",
+  "status": "OPEN",
+  "priority": "A",
+  "checked_on": "2026-09-28",
+  "statement": "區分長期不可逆tipping風險與decadal sea-level contribution，量observations對future ice loss的約束。",
+  "known_result": "2026 Antarctic basin研究量各basin tipping risk；另一Nature Perspective指出2025 loss rate對未來數十年有emergent predictability。",
+  "open_gap": "basal processes、ocean forcing、model spread、paleo constraints與irreversibility timescale。",
+  "first_task": "用簡化ice-loss ensemble做present-rate conditioning，重現conditioning前後projection spread。",
+  "evaluator": "coverage、ensemble calibration、sensitivity to model weights。",
+  "validation_limits": "decadal predictability不等於long-term tipping已確定。",
+  "completion_criterion": "對凍結basin/model ensemble給可驗證decadal forecast並明列long-term irreversibility uncertainty。",
+  "screening_note": "2026-09-28 初始有界文獻篩查；每輪需重查最新資料、修訂與事件。OPEN不代表全網無解。",
+  "screening_queries": [
+    "Antarctic ice tipping decadal predictability 2026"
+  ],
+  "sources": [
+    {
+      "title": "Mapping tipping risks from Antarctic ice basins under global warming",
+      "url": "https://www.nature.com/articles/s41558-025-02554-0",
+      "kind": "primary",
+      "supports": "basin-level tipping risk"
+    },
+    {
+      "title": "Emergent decadal predictability in Antarctic contribution to sea-level rise",
+      "url": "https://www.nature.com/articles/s41586-026-10614-4",
+      "kind": "primary",
+      "supports": "decadal sea-level predictability"
+    }
+  ]
+}

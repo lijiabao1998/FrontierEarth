@@ -1,0 +1,33 @@
+{
+  "id": "EARTH-010",
+  "domain": "earth",
+  "title": "Earth foundation models的多模態與物理一致性",
+  "status": "OPEN",
+  "priority": "A",
+  "checked_on": "2026-09-28",
+  "statement": "建立能跨sensor、scale、location/time與downstream tasks泛化，同時保持physical consistency的Earth foundation models。",
+  "known_result": "2026 Perspective提出Earth FMs的geolocation/scale awareness、multisensor integration、physical consistency等11項理想特徵與後續研究問題。",
+  "open_gap": "temporal/multisensor fusion、continual update、physical constraints、data imbalance與carbon cost。",
+  "first_task": "用小型harmonized dataset做modality-held-out baseline，加入物理/地理sanity checks。",
+  "evaluator": "cross-modal transfer、calibration、physical violation rate、compute/carbon。",
+  "validation_limits": "benchmark高分不代表Earth-system understanding；training contamination需查。",
+  "completion_criterion": "跨未見region/time/sensor保持性能與物理一致性，並有明確failure detector。",
+  "screening_note": "2026-09-28 初始有界文獻篩查；每輪需重查最新資料、修訂與事件。OPEN不代表全網無解。",
+  "screening_queries": [
+    "Earth foundation models 2026 physical consistency"
+  ],
+  "sources": [
+    {
+      "title": "On the foundations of Earth foundation models",
+      "url": "https://www.nature.com/articles/s43247-025-03127-x",
+      "kind": "primary",
+      "supports": "Earth FM理想能力、限制與研究問題"
+    },
+    {
+      "title": "A harmonised dataset for Earth system foundation models",
+      "url": "https://www.nature.com/articles/s41597-026-07913-w",
+      "kind": "primary",
+      "supports": "多源Earth-system foundation-model dataset"
+    }
+  ]
+}
