@@ -4,6 +4,6 @@ permissions:
   contents: read
 jobs:
   records:
-    uses: lijiabao1998/FrontierLab-Governance/.github/workflows/research.yml@f40beb161b6c87201d8082ecbc29c7e0b3eaa402
+    uses: lijiabao1998/FrontierLab-Governance/.github/workflows/research.yml@9c3ae2dbaa1c814f3ef451c041dedfe3b77d926f
     with:
-      governance_ref: f40beb161b6c87201d8082ecbc29c7e0b3eaa402
+      governance_ref: 9c3ae2dbaa1c814f3ef451c041dedfe3b77d926f
