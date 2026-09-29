@@ -17,4 +17,4 @@
 | EARTH-009 | 乾旱／水文極端的跨區域泛化 | B |
 | EARTH-010 | Earth foundation models的多模態與物理一致性 | A |
 
-每輪按治理 091d6a26a4af8522683711483f2b97afd90efa7f fresh search，資料版本、時空切分、事件定義與漏報/誤報成本必須凍結。
+每輪按治理 f40beb161b6c87201d8082ecbc29c7e0b3eaa402 fresh search，資料版本、時空切分、事件定義與漏報/誤報成本必須凍結。
