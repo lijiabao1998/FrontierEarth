@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "raw_sha256": "57ef5435662f29488ad9fe6cd86bd1bb30ea7a530b5ab1810361c8f36508b386",
+  "raw_rows": 27,
+  "days": 730,
+  "calibration_events": 11,
+  "test_events": 16,
+  "numeric_checks": 145,
+  "maximum_gap": 4.440892098500626e-16,
+  "scope": "Independent raw filtering/calendar/counts/monthly count and source audits; all four scores and 2000 circular bootstrap score intervals via sufficient-statistic algebra",
+  "not_verified": [
+    "Catalog completeness or original historical vintage",
+    "Clinical or disaster utility",
+    "Lag autocorrelation estimator",
+    "Author negative-control implementation"
+  ],
+  "limits": "Historical revised catalog, no novel predictor or prospective guarantee; bootstrap implementation details disclosed after initial result; independent code uses same documented Python RNG."
+}

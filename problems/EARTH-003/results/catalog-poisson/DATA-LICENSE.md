@@ -1,0 +1,11 @@
+# Data provenance and reuse
+
+Credit: U.S. Geological Survey, ANSS Comprehensive Earthquake Catalog (ComCat), and contributing networks NC, CI and NN. The byte-exact historical CSV response is retained as `catalog.csv`. Its exact URL, HTTP status, acquisition time and SHA-256 are in `retrieval.json`. No authenticated or paid source was used.
+
+USGS says its authored/produced data are in the U.S. public domain and requests attribution: https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits . Its scientific-data release policy also describes public, no-cost access: https://www.usgs.gov/faqs/what-usgs-policy-release-scientific-data-are-any-usgs-products-restricted?items_per_page=6&page=1 . USGS licensing policy distinguishes non-Federal contributors and does not automatically grant CC0 for every contributed product: https://www.usgs.gov/data-management/data-licensing . We therefore do not assign an invented blanket CC0 license to this CSV.
+
+The retained file contains factual catalog parameters, IDs and locality descriptions, not waveform files, photographs, maps, or separately copyrighted research articles. No restrictive notice accompanied this public CSV response. NC, CI and NN provenance is preserved in its `net`, `locationSource` and `magSource` fields. Public USGS catalog access is documented at https://earthquake.usgs.gov/data/catalog/access/ . No statement here grants rights over unrelated contributor products.
+
+Locality labels may incorporate GeoNames geographic names. Credit: GeoNames, https://www.geonames.org/ . GeoNames describes its freely available geographic data under a Creative Commons Attribution license at https://www.geonames.org/export/ . The raw labels are preserved without modification; the evaluator does not use them. The license page was read on 2026-10-09 after retrieval. No GeoNames data service or paid resource was queried.
+
+Derived `daily.csv`, `monthly.csv` and score outputs are deterministic transformations described in the accompanying source; original event parameters remain unchanged in `catalog.csv`. The acquired catalog is a present-day retrospective snapshot and can differ from the information available at event time.

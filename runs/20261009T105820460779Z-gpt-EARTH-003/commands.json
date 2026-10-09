@@ -1,0 +1,38 @@
+[
+  {
+    "command": "python /workspace/shared/frontier-program/governance/tools/frontier.py start . EARTH-003 --agent gpt --topic catalog-poisson",
+    "result": "round skeleton created; requires fresh source searches before admit"
+  },
+  {
+    "command": "python /workspace/shared/frontier-program/governance/tools/frontier.py admit . runs/20261009T105820460779Z-gpt-EARTH-003/round.json",
+    "result": "ADMITTED 2026-10-09T11:06:20.190257+00:00"
+  },
+  {
+    "command": "timeout 60 python problems/EARTH-003/experiments/catalog-poisson/retrieve.py",
+    "result": "exit0; two HTTP200 responses; 5229-byte CSV and 2-byte count endpoint"
+  },
+  {
+    "command": "python problems/EARTH-003/experiments/catalog-poisson/test_baseline.py",
+    "result": "exit0; 14 tests, archived tests.stdout.txt"
+  },
+  {
+    "command": "timeout 30 python problems/EARTH-003/experiments/catalog-poisson/baseline.py",
+    "result": "exit0; metrics and daily/monthly records archived"
+  },
+  {
+    "command": "python /workspace/shared/frontier-program/governance/tools/frontier.py validate .",
+    "result": "PASS prior to git add; must rerun against final tracked content"
+  },
+  {
+    "command": "PYTHONPATH=problems/EARTH-003/experiments/catalog-poisson python [monkeypatch score to return zeros; run test_half_score]",
+    "result": "Expected exit1; mutation rejected, mutant.stdout.txt saved"
+  },
+  {
+    "command": "python problems/EARTH-003/experiments/catalog-poisson/baseline.py; sha256sum -c /tmp/earth-before.sha",
+    "result": "Second offline run is byte-identical for results.json, daily.csv and monthly.csv"
+  },
+  {
+    "command": "python problems/EARTH-003/experiments/catalog-poisson/independent-review/verify_earth.py problems/EARTH-003/results/catalog-poisson",
+    "result": "145 comparisons PASS; exact reviewer JSON reproduced; author implementation not imported"
+  }
+]

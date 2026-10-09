@@ -1,0 +1,14 @@
+[
+  {
+    "case": "score_tamper",
+    "rejected": true,
+    "exit": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"independent_review/verify_earth.py\", line 36, in <module>\n    ck(brier(rate),out['brier']);ck(loss(rate),out['log_loss']);ck(rate-prob,out['calibration']['observed_minus_predicted'])\n    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"independent_review/verify_earth.py\", line 11, in ck\n    gap=abs(a-b);gaps.append(gap);assert gap<1e-12,(a,b,gap)\n                                         ^^^^^^^^^\nAssertionError: (0.04211422733712197, 0.043114227337121974, 0.0010000000000000009)\n"
+  },
+  {
+    "case": "duplicate_catalog_id",
+    "rejected": true,
+    "exit": 1,
+    "stderr": "Traceback (most recent call last):\n  File \"independent_review/verify_earth.py\", line 15, in <module>\n    assert x['id'] and x['id'] not in ids;ids.add(x['id']);ts=dt.datetime.fromisoformat(x['time'].replace('Z','+00:00'));lat,lon,depth,mag=[float(x[k]) for k in ['latitude','longitude','depth','mag']];assert all(map(math.isfinite,[lat,lon,depth,mag]))\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError\n"
+  }
+]

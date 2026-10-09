@@ -1,0 +1,165 @@
+{
+  "raw_sha256": "57ef5435662f29488ad9fe6cd86bd1bb30ea7a530b5ab1810361c8f36508b386",
+  "calibration": {
+    "days": 365,
+    "events": 11,
+    "active_days": 11,
+    "active_day_rate": 0.030136986301369864,
+    "multiple_event_days": 0,
+    "maximum_events_per_day": 1,
+    "daily_count_variance_over_mean": 0.9725274725274725,
+    "lag1_occurrence_autocorrelation": -0.0311585790573485
+  },
+  "test": {
+    "days": 365,
+    "events": 16,
+    "active_days": 16,
+    "active_day_rate": 0.043835616438356165,
+    "multiple_event_days": 0,
+    "maximum_events_per_day": 1,
+    "daily_count_variance_over_mean": 0.9587912087912088,
+    "lag1_occurrence_autocorrelation": 0.01939445382109354
+  },
+  "models": {
+    "poisson": {
+      "probability": 0.029687395090904338,
+      "brier": 0.04211422733712197,
+      "log_loss": 0.18298721072535737,
+      "calibration": {
+        "n": 365,
+        "mean_prediction": 0.029687395090904338,
+        "observed_frequency": 0.043835616438356165,
+        "observed_minus_predicted": 0.014148221347451827
+      },
+      "alarm_diagnostic": {
+        "threshold": 0.5,
+        "alarm_day_rate": 0.0,
+        "false_positive_rate": 0.0,
+        "missed_event_day_rate": 1.0,
+        "lead_time": "NOT_APPLICABLE"
+      }
+    },
+    "bernoulli_climatology": {
+      "probability": 0.030136986301369864,
+      "brier": 0.04210170763745544,
+      "log_loss": 0.18277147125794024,
+      "calibration": {
+        "n": 365,
+        "mean_prediction": 0.030136986301369864,
+        "observed_frequency": 0.043835616438356165,
+        "observed_minus_predicted": 0.0136986301369863
+      },
+      "alarm_diagnostic": {
+        "threshold": 0.5,
+        "alarm_day_rate": 0.0,
+        "false_positive_rate": 0.0,
+        "missed_event_day_rate": 1.0,
+        "lead_time": "NOT_APPLICABLE"
+      }
+    },
+    "zero": {
+      "probability": 0.0,
+      "brier": 0.043835616438356165,
+      "log_loss": 1.2112228434389198,
+      "calibration": {
+        "n": 365,
+        "mean_prediction": 0.0,
+        "observed_frequency": 0.043835616438356165,
+        "observed_minus_predicted": 0.043835616438356165
+      },
+      "alarm_diagnostic": {
+        "threshold": 0.5,
+        "alarm_day_rate": 0.0,
+        "false_positive_rate": 0.0,
+        "missed_event_day_rate": 1.0,
+        "lead_time": "NOT_APPLICABLE"
+      }
+    },
+    "half": {
+      "probability": 0.5,
+      "brier": 0.25,
+      "log_loss": 0.6931471805599453,
+      "calibration": {
+        "n": 365,
+        "mean_prediction": 0.5,
+        "observed_frequency": 0.043835616438356165,
+        "observed_minus_predicted": -0.45616438356164385
+      },
+      "alarm_diagnostic": {
+        "threshold": 0.5,
+        "alarm_day_rate": 1.0,
+        "false_positive_rate": 1.0,
+        "missed_event_day_rate": 0.0,
+        "lead_time": "NOT_APPLICABLE"
+      }
+    }
+  },
+  "uncertainty": {
+    "method": "fixed-p circular moving-block percentile interval; descriptive, no independent-events claim",
+    "block_days": 30,
+    "resamples": 2000,
+    "seed": 196003,
+    "base_rate_95": [
+      0.0273972602739726,
+      0.06301369863013699
+    ],
+    "models": {
+      "poisson": {
+        "brier": [
+          0.02665189512093253,
+          0.060153614922676325
+        ],
+        "log_loss": [
+          0.12566837656636207,
+          0.24985918391085193
+        ],
+        "calibration_gap": [
+          -0.0022901348169317368,
+          0.03332630353923265
+        ]
+      },
+      "bernoulli_climatology": {
+        "brier": [
+          0.026654156502158004,
+          0.06012385062863577
+        ],
+        "log_loss": [
+          0.12570733470448153,
+          0.24934629723697538
+        ],
+        "calibration_gap": [
+          -0.002739726027397263,
+          0.03287671232876713
+        ]
+      },
+      "zero": {
+        "brier": [
+          0.0273972602739726,
+          0.06301369863013699
+        ],
+        "log_loss": [
+          0.7570142771496999,
+          1.7411328374430097
+        ],
+        "calibration_gap": [
+          0.0273972602739726,
+          0.06301369863013699
+        ]
+      },
+      "half": {
+        "brier": [
+          0.25,
+          0.25
+        ],
+        "log_loss": [
+          0.6931471805599453,
+          0.6931471805599453
+        ],
+        "calibration_gap": [
+          -0.4726027397260274,
+          -0.436986301369863
+        ]
+      }
+    }
+  }
+}

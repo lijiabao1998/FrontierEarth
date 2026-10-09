@@ -1,0 +1,169 @@
+{
+  "round_id": "20261009T105820460779Z-gpt-EARTH-003",
+  "problem_id": "EARTH-003",
+  "agent": "gpt",
+  "branch": "gpt/EARTH-003-catalog-poisson-20261009t105820460779z",
+  "base_sha": "10124d029691761e564e6d40327205d3810f5904",
+  "started_at": "2026-10-09T10:58:20.460779+00:00",
+  "state": "FINISHED",
+  "acceptance": "{\"acceptance\": \"Reproducible byte-hashed real-catalog baseline with all frozen metrics, controls and independent review. No requirement for favorable scores; failed or blocked retrieval is valid negative deliverable. EARTH-003 remains OPEN. No novel predictor or transfer claim.\", \"alarm_diagnostic\": \"threshold p>=0.5 fixed; alarm-day rate, false positive rate among no-event days and missed event-day rate. Not an operational alarm. Lead time NOT_APPLICABLE; region rectangle only, no spatial subcell transfer.\", \"baseline\": \"fit lambda = calibration event count / 365 days once; p = -expm1(-lambda); same p on all test days; no test refit\", \"budget\": {\"max_trials\": 100, \"usd\": 0, \"wall_minutes\": 30}, \"calibration\": [\"2017-01-01T00:00:00Z\", \"2018-01-01T00:00:00Z\"], \"calibration_report\": \"one occupied reliability bin per constant model, predicted p, observed occurrence frequency and observed-minus-p; do not manufacture a multi-bin curve\", \"catalog\": \"USGS ANSS ComCat preferred event parameters, all contributing networks; eventtype earthquake\", \"caveats\": [\"Magnitude completeness at M4 is not established for this rectangle/year/network mix; aftershock detection may be incomplete.\", \"Preferred magnitude scales differ; no conversion to common Mw. Position and magnitude uncertainty can shift threshold membership.\", \"Current retrospective catalog can include revisions unavailable in 2017/2018. This is not vintage data or a prospective forecast.\", \"Aftershock dependence and nonstationarity remain; Poisson assumption is a baseline, not accepted physics. Adjacent years and days are not independent replications.\", \"No ground-motion prediction, real-time warning, causal mechanism or personal disaster guidance.\"], \"comparators\": [\"calibration active-day frequency (Bernoulli climatology)\", \"p=0 constant negative control\", \"p=0.5 constant reference\"], \"controls\": [\"hand-calculated score case Y=[0,1],p=.5 gives Brier .25/log loss ln2\", \"Poisson rate/occurrence conversion and event-count versus active-day distinction\", \"UTC midnight, split boundary, end-exclusive boundary, exact magnitude/spatial bounds\", \"reject duplicate ID, missing/nonfinite required values\", \"intentional wrong zero-output evaluator fails positive fixture\"], \"data_integrity\": \"retain byte-exact raw CSV and SHA256. Validate nonempty unique event IDs and finite time/lat/lon/depth/mag. Fail on malformed required fields or duplicate IDs, 20000 rows or larger, empty calibration catalog, or incomplete retrieval; no imputation. Exclude endtime boundary event locally and report exclusions. Missing optional fields audited. Zero-filled days mean no recorded matching event, not certified absence.\", \"diagnostics\": [\"2017/2018 event counts, active days, days with multiple events, sample variance/mean of daily counts, lag-1 occurrence autocorrelation\", \"monthly counts/active-day rates, without fitting or selecting by month\", \"network and magnitude-type counts; missing ancillary-field counts; count endpoint consistency\"], \"fallback\": \"If catalog cannot be retrieved legally/reliably, record blocked data access; at most run clearly labeled synthetic evaluator unit fixtures with no empirical score claim.\", \"frozen_at\": \"2026-10-09T11:00:20.073887+00:00\", \"horizon\": \"one non-overlapping UTC calendar day; Y=1 iff at least one retained catalog event occurs that day\", \"kind\": \"historical-catalog-baseline-reproduction\", \"local_filter\": \"32 <= latitude <= 42; -125 <= longitude <= -114; -100 <= depth_km <= 1000; preferred magnitude >= 4.0; 2017-01-01T00:00:00Z <= origin time < 2019-01-01T00:00:00Z; event type earthquake\", \"loss\": \"mean Brier (p-Y)^2 and mean negative natural-log Bernoulli score; for log score only clip p to [1e-12, 1-1e-12]; lower is better; no threshold selection\", \"problem_id\": \"EARTH-003\", \"public_claim_status\": \"Claim published by coordinator with explicit new user approval: https://github.com/lijiabao1998/FrontierEarth/issues/3 at 2026-10-09T11:03:47Z; prior denied attempts preserved.\", \"query\": {\"endtime\": \"2019-01-01T00:00:00\", \"eventtype\": \"earthquake\", \"format\": \"csv\", \"limit\": 20000, \"maxdepth\": 1000, \"maxlatitude\": 42, \"maxlongitude\": -114, \"mindepth\": -100, \"minlatitude\": 32, \"minlongitude\": -125, \"minmagnitude\": 4.0, \"orderby\": \"time-asc\", \"starttime\": \"2017-01-01T00:00:00\"}, \"test\": [\"2018-01-01T00:00:00Z\", \"2019-01-01T00:00:00Z\"], \"uncertainty\": {\"block_days\": 30, \"limitations\": \"not independent event validation; 30 days may not cover all dependence; one test year and nonstationarity limit interval validity; calibration-parameter uncertainty not included\", \"method\": \"circular moving-block bootstrap of 2018 daily records conditional on fixed calibration estimates; percentile 2.5/97.5; descriptive only\", \"quantile\": \"linear interpolation (position (n-1)*q)\", \"resamples\": 2000, \"seed\": 196003}, \"version\": 1}",
+  "not_done": "No novel predictor, prospective evaluation, vintage catalog, completeness verification, unseen-region transfer, ETAS fit, ground-motion estimate, deployment or parent completion. Remote candidate publication and CI are reported separately.",
+  "budget": {
+    "wall_minutes": 30,
+    "usd": 0,
+    "max_trials": 100
+  },
+  "preflight": {
+    "checked_at": "2026-10-09T11:00:20.073887+00:00",
+    "verdict": "NO_RESOLUTION_FOUND",
+    "queries": [
+      {
+        "category": "general",
+        "query": "earthquake occurrence forecasting Poisson baseline USGS ComCat calibration daily historical catalog",
+        "engine": "OpenAI web search",
+        "outcome": "Located ComCat/API documentation and forecasting research; no evidence that the broad parent problem is closed.",
+        "searched_at": "2026-10-09T10:58:21+00:00"
+      },
+      {
+        "category": "discipline",
+        "query": "site.usgs.gov FDSN event catalog API documentation magnitude completeness",
+        "engine": "OpenAI web search",
+        "outcome": "Official USGS API/catalog documentation; threshold is a selection criterion, not proof of completeness.",
+        "searched_at": "2026-10-09T10:58:21+00:00"
+      },
+      {
+        "category": "solution",
+        "query": "earthquake forecasting solved 2026 Poisson ETAS probability calibration",
+        "engine": "OpenAI web search",
+        "outcome": "No exact general resolution established by bounded results; existing forecast methodology found.",
+        "searched_at": "2026-10-09T10:58:21+00:00"
+      },
+      {
+        "category": "criticism",
+        "query": "earthquake forecast evaluation Poisson independence aftershock correction criticism catalog completeness",
+        "engine": "OpenAI web search",
+        "outcome": "Located Nandan et al. critique of Poisson count assumptions, incompleteness studies and magnitude uncertainty limitations.",
+        "searched_at": "2026-10-09T10:58:21+00:00"
+      },
+      {
+        "category": "solution",
+        "query": "earthquake forecast Poisson baseline solved exact calibration aftershock",
+        "engine": "OpenAI web search",
+        "outcome": "Undated solution perspective; no verified closure found.",
+        "searched_at": "2026-10-09T11:00:20.073887+00:00"
+      },
+      {
+        "category": "criticism",
+        "query": "\"Forecasting the full distribution of earthquake numbers\" correction erratum retraction",
+        "engine": "OpenAI web search",
+        "outcome": "No specific correction/retraction established in bounded results. This is not proof of absence; arXiv page lists v1.",
+        "searched_at": "2026-10-09T11:00:20.073887+00:00"
+      },
+      {
+        "category": "discipline",
+        "query": "site.usgs.gov earthquake data public domain reuse catalog",
+        "engine": "OpenAI web search",
+        "outcome": "Located official USGS copyright/data licensing policies.",
+        "searched_at": "2026-10-09T11:00:20.073887+00:00"
+      },
+      {
+        "category": "discipline",
+        "query": "site.usgs.gov can I use earthquake data public domain copyright ComCat",
+        "engine": "OpenAI web search",
+        "outcome": "Located official policy FAQ and licensing caveats.",
+        "searched_at": "2026-10-09T11:00:20.073887+00:00"
+      }
+    ],
+    "sources": [
+      {
+        "title": "USGS FDSN Event API documentation",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/",
+        "kind": "primary",
+        "supports": "CSV access; UTC and inclusive API endtime; time, geographic, magnitude and event-type parameters; response limit 20000.",
+        "read_at": "2026-10-09T11:00:20.073887+00:00",
+        "access": "full official API reference read",
+        "version": "live reference, accessed 2026-10-09"
+      },
+      {
+        "title": "USGS ANSS ComCat documentation",
+        "url": "https://earthquake.usgs.gov/data/comcat/",
+        "kind": "primary",
+        "supports": "ComCat combines contributing network source parameters; preferred values and catalog updates require caution.",
+        "read_at": "2026-10-09T11:00:20.073887+00:00",
+        "access": "official catalog page read",
+        "version": "live page accessed 2026-10-09"
+      },
+      {
+        "title": "Nandan et al., Forecasting the full distribution of earthquake numbers is fair, robust and better",
+        "url": "https://arxiv.org/pdf/1903.07079",
+        "kind": "primary",
+        "supports": "Clustering motivates caution about Poisson count distributions; paper compares full-distribution ETAS versus restricted mean-based evaluations. Our small occurrence baseline does not reproduce their ETAS experiment.",
+        "read_at": "2026-10-09T11:00:20.073887+00:00",
+        "access": "full PDF accessible; abstract, introduction, methods and California data sections read; supplementary results not independently replicated",
+        "version": "arXiv 1903.07079v1, 2019-03-17; only v1 in submission history"
+      },
+      {
+        "title": "USGS Copyrights and Credits",
+        "url": "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits",
+        "kind": "primary",
+        "supports": "USGS-produced data are US public domain; marked third-party content can have restrictions; credit USGS. No automatic CC0 attribution to all contributor products.",
+        "read_at": "2026-10-09T11:00:20.073887+00:00",
+        "access": "full policy page read"
+      },
+      {
+        "title": "USGS scientific data release policy FAQ",
+        "url": "https://www.usgs.gov/faqs/what-usgs-policy-release-scientific-data-are-any-usgs-products-restricted?items_per_page=6&page=1",
+        "kind": "primary",
+        "supports": "Public scientific data offered at no cost/public domain except restrictions; used with explicit credit and contributor provenance.",
+        "read_at": "2026-10-09T11:00:20.073887+00:00",
+        "access": "policy statement read"
+      }
+    ],
+    "limitations": "Bounded search, not exhaustive. Nandan HTML v2 and two guessed availability URLs failed; v1 PDF read instead. No event catalog ingested yet. No exact independent research resolution established. Data rights will be documented without inventing a CC0 grant for all contributors.",
+    "scope_comparison": "A historical constant-Poisson daily-occurrence baseline in a fixed California-region rectangle is a narrow reproduction of the card first task. It cannot close occurrence/ground-motion/real-time warning or establish unseen-region calibration gains.",
+    "baseline": "fit lambda = calibration event count / 365 days once; p = -expm1(-lambda); same p on all test days; no test refit",
+    "sources_read": true,
+    "scope_compared": true,
+    "retractions_checked": true,
+    "licenses_checked": true,
+    "safety_checked": true,
+    "baseline_identified": true,
+    "acceptance_frozen": true
+  },
+  "artifacts": [
+    "problems/EARTH-003/experiments/catalog-poisson",
+    "problems/EARTH-003/results/catalog-poisson",
+    "runs/20261009T105820460779Z-gpt-EARTH-003/frozen-spec.json",
+    "runs/20261009T105820460779Z-gpt-EARTH-003/sources.json"
+  ],
+  "result": {
+    "status": "BASELINE_REPRODUCED",
+    "raw_events": 27,
+    "calibration_events": 11,
+    "test_events": 16,
+    "poisson_brier": 0.04211422733712197,
+    "poisson_log_loss": 0.18298721072535737,
+    "relative_to_bernoulli": "No improvement; no significant difference claimed",
+    "author_tests": 14,
+    "independent_verification": "145 numerical comparisons, maximum gap4.44e-16; nonblind independent code, not an independent empirical data collection",
+    "independent_negative_controls": "Score tampering and duplicate IDs rejected; source evidence retained",
+    "parent_problem": "OPEN",
+    "usd": 0,
+    "deadline": "2026-10-09T11:27:00Z"
+  },
+  "blocker": {
+    "recorded_at": "2026-10-09T11:01:16.882209+00:00",
+    "kind": "PUBLIC_CLAIM_AUTHORIZATION_REQUIRED",
+    "action": "create_issue",
+    "repository": "lijiabao1998/FrontierEarth",
+    "title": "EARTH-003: GPT claims bounded historical catalog Poisson baseline",
+    "attempts": 2,
+    "remote_write_confirmed": false,
+    "analysis_started": false,
+    "admit_run": false,
+    "resolved_at": "2026-10-09T11:03:47Z",
+    "resolution_url": "https://github.com/lijiabao1998/FrontierEarth/issues/3"
+  },
+  "admitted_at": "2026-10-09T11:06:20.190257+00:00",
+  "finished_at": "2026-10-09T11:11:45.305118+00:00"
+}

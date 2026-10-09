@@ -1,0 +1,19 @@
+test_before_start (__main__.Controls.test_before_start) ... ok
+test_block_boundaries (__main__.Controls.test_block_boundaries) ... ok
+test_duplicate_rejected (__main__.Controls.test_duplicate_rejected) ... ok
+test_edges (__main__.Controls.test_edges) ... ok
+test_empty_calibration_rejected (__main__.Controls.test_empty_calibration_rejected) ... ok
+test_half_score (__main__.Controls.test_half_score) ... ok
+test_magnitude_boundary (__main__.Controls.test_magnitude_boundary) ... ok
+test_missing_nonfinite_rejected (__main__.Controls.test_missing_nonfinite_rejected) ... ok
+test_mutant_rejected (__main__.Controls.test_mutant_rejected) ... ok
+test_perfect_and_opposite (__main__.Controls.test_perfect_and_opposite) ... ok
+test_quantile (__main__.Controls.test_quantile) ... ok
+test_rate_not_active_days (__main__.Controls.test_rate_not_active_days) ... ok
+test_time_endpoint_exclusive (__main__.Controls.test_time_endpoint_exclusive) ... ok
+test_timezone_required (__main__.Controls.test_timezone_required) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.001s
+
+OK

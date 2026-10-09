@@ -1,0 +1,45 @@
+[
+  {
+    "title": "USGS FDSN Event API documentation",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/",
+    "kind": "primary",
+    "supports": "CSV access; UTC and inclusive API endtime; time, geographic, magnitude and event-type parameters; response limit 20000.",
+    "read_at": "2026-10-09T11:00:20.073887+00:00",
+    "access": "full official API reference read",
+    "version": "live reference, accessed 2026-10-09"
+  },
+  {
+    "title": "USGS ANSS ComCat documentation",
+    "url": "https://earthquake.usgs.gov/data/comcat/",
+    "kind": "primary",
+    "supports": "ComCat combines contributing network source parameters; preferred values and catalog updates require caution.",
+    "read_at": "2026-10-09T11:00:20.073887+00:00",
+    "access": "official catalog page read",
+    "version": "live page accessed 2026-10-09"
+  },
+  {
+    "title": "Nandan et al., Forecasting the full distribution of earthquake numbers is fair, robust and better",
+    "url": "https://arxiv.org/pdf/1903.07079",
+    "kind": "primary",
+    "supports": "Clustering motivates caution about Poisson count distributions; paper compares full-distribution ETAS versus restricted mean-based evaluations. Our small occurrence baseline does not reproduce their ETAS experiment.",
+    "read_at": "2026-10-09T11:00:20.073887+00:00",
+    "access": "full PDF accessible; abstract, introduction, methods and California data sections read; supplementary results not independently replicated",
+    "version": "arXiv 1903.07079v1, 2019-03-17; only v1 in submission history"
+  },
+  {
+    "title": "USGS Copyrights and Credits",
+    "url": "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits",
+    "kind": "primary",
+    "supports": "USGS-produced data are US public domain; marked third-party content can have restrictions; credit USGS. No automatic CC0 attribution to all contributor products.",
+    "read_at": "2026-10-09T11:00:20.073887+00:00",
+    "access": "full policy page read"
+  },
+  {
+    "title": "USGS scientific data release policy FAQ",
+    "url": "https://www.usgs.gov/faqs/what-usgs-policy-release-scientific-data-are-any-usgs-products-restricted?items_per_page=6&page=1",
+    "kind": "primary",
+    "supports": "Public scientific data offered at no cost/public domain except restrictions; used with explicit credit and contributor provenance.",
+    "read_at": "2026-10-09T11:00:20.073887+00:00",
+    "access": "policy statement read"
+  }
+]

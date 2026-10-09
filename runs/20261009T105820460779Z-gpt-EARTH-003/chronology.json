@@ -1,0 +1,12 @@
+{
+  "recorded_at": "2026-10-09T11:09:54.883810+00:00",
+  "started_at": "2026-10-09T10:58:20.460779+00:00",
+  "initial_spec_written_at": "2026-10-09T11:00:20.073887+00:00",
+  "pre_admission_revision": "public_claim_status only: initial denial/pending statement replaced with successful coordinator claim #3, before admit. Scientific choices unchanged. The earlier exact file bytes were not separately hashed; no prior hash observation is claimed.",
+  "admitted_at": "2026-10-09T11:06:20.190257+00:00",
+  "spec_sha256_computed_now": "694cd8ef4743969a05a509b85f0ea78cc02935aba7d42234e7672706e67535a2",
+  "hash_time_caveat": "Hash computed after analysis; same admitted acceptance string was compared to this file. This is not a contemporaneous timestamped admission hash.",
+  "acceptance_matches_spec": true,
+  "analysis_first_run_at_approximately": "2026-10-09T11:08:00Z",
+  "rng_detail": "Implementation fixed Python random.Random seed196003; ceil365/30=13 starts per resample using randrange365, circular consecutive30, truncate365, 2000 sequential resamples. Original spec named seed/block/repetitions/quantile but not RNG algorithm. No result-driven RNG selection."
+}
