@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "kind": "historical-catalog-baseline-reproduction",
+  "frozen_at": "2026-10-09T11:00:20.073887+00:00",
+  "problem_id": "EARTH-003",
+  "catalog": "USGS ANSS ComCat preferred event parameters, all contributing networks; eventtype earthquake",
+  "query": {
+    "format": "csv",
+    "starttime": "2017-01-01T00:00:00",
+    "endtime": "2019-01-01T00:00:00",
+    "minlatitude": 32,
+    "maxlatitude": 42,
+    "minlongitude": -125,
+    "maxlongitude": -114,
+    "minmagnitude": 4.0,
+    "mindepth": -100,
+    "maxdepth": 1000,
+    "eventtype": "earthquake",
+    "orderby": "time-asc",
+    "limit": 20000
+  },
+  "local_filter": "32 <= latitude <= 42; -125 <= longitude <= -114; -100 <= depth_km <= 1000; preferred magnitude >= 4.0; 2017-01-01T00:00:00Z <= origin time < 2019-01-01T00:00:00Z; event type earthquake",
+  "calibration": [
+    "2017-01-01T00:00:00Z",
+    "2018-01-01T00:00:00Z"
+  ],
+  "test": [
+    "2018-01-01T00:00:00Z",
+    "2019-01-01T00:00:00Z"
+  ],
+  "horizon": "one non-overlapping UTC calendar day; Y=1 iff at least one retained catalog event occurs that day",
+  "baseline": "fit lambda = calibration event count / 365 days once; p = -expm1(-lambda); same p on all test days; no test refit",
+  "comparators": [
+    "calibration active-day frequency (Bernoulli climatology)",
+    "p=0 constant negative control",
+    "p=0.5 constant reference"
+  ],
+  "loss": "mean Brier (p-Y)^2 and mean negative natural-log Bernoulli score; for log score only clip p to [1e-12, 1-1e-12]; lower is better; no threshold selection",
+  "calibration_report": "one occupied reliability bin per constant model, predicted p, observed occurrence frequency and observed-minus-p; do not manufacture a multi-bin curve",
+  "alarm_diagnostic": "threshold p>=0.5 fixed; alarm-day rate, false positive rate among no-event days and missed event-day rate. Not an operational alarm. Lead time NOT_APPLICABLE; region rectangle only, no spatial subcell transfer.",
+  "uncertainty": {
+    "method": "circular moving-block bootstrap of 2018 daily records conditional on fixed calibration estimates; percentile 2.5/97.5; descriptive only",
+    "block_days": 30,
+    "resamples": 2000,
+    "seed": 196003,
+    "quantile": "linear interpolation (position (n-1)*q)",
+    "limitations": "not independent event validation; 30 days may not cover all dependence; one test year and nonstationarity limit interval validity; calibration-parameter uncertainty not included"
+  },
+  "diagnostics": [
+    "2017/2018 event counts, active days, days with multiple events, sample variance/mean of daily counts, lag-1 occurrence autocorrelation",
+    "monthly counts/active-day rates, without fitting or selecting by month",
+    "network and magnitude-type counts; missing ancillary-field counts; count endpoint consistency"
+  ],
+  "data_integrity": "retain byte-exact raw CSV and SHA256. Validate nonempty unique event IDs and finite time/lat/lon/depth/mag. Fail on malformed required fields or duplicate IDs, 20000 rows or larger, empty calibration catalog, or incomplete retrieval; no imputation. Exclude endtime boundary event locally and report exclusions. Missing optional fields audited. Zero-filled days mean no recorded matching event, not certified absence.",
+  "controls": [
+    "hand-calculated score case Y=[0,1],p=.5 gives Brier .25/log loss ln2",
+    "Poisson rate/occurrence conversion and event-count versus active-day distinction",
+    "UTC midnight, split boundary, end-exclusive boundary, exact magnitude/spatial bounds",
+    "reject duplicate ID, missing/nonfinite required values",
+    "intentional wrong zero-output evaluator fails positive fixture"
+  ],
+  "acceptance": "Reproducible byte-hashed real-catalog baseline with all frozen metrics, controls and independent review. No requirement for favorable scores; failed or blocked retrieval is valid negative deliverable. EARTH-003 remains OPEN. No novel predictor or transfer claim.",
+  "caveats": [
+    "Magnitude completeness at M4 is not established for this rectangle/year/network mix; aftershock detection may be incomplete.",
+    "Preferred magnitude scales differ; no conversion to common Mw. Position and magnitude uncertainty can shift threshold membership.",
+    "Current retrospective catalog can include revisions unavailable in 2017/2018. This is not vintage data or a prospective forecast.",
+    "Aftershock dependence and nonstationarity remain; Poisson assumption is a baseline, not accepted physics. Adjacent years and days are not independent replications.",
+    "No ground-motion prediction, real-time warning, causal mechanism or personal disaster guidance."
+  ],
+  "fallback": "If catalog cannot be retrieved legally/reliably, record blocked data access; at most run clearly labeled synthetic evaluator unit fixtures with no empirical score claim.",
+  "budget": {
+    "wall_minutes": 30,
+    "usd": 0,
+    "max_trials": 100
+  },
+  "public_claim_status": "Claim published by coordinator with explicit new user approval: https://github.com/lijiabao1998/FrontierEarth/issues/3 at 2026-10-09T11:03:47Z; prior denied attempts preserved."
+}

@@ -1,0 +1,15 @@
+test_half_score (test_baseline.Controls.test_half_score) ... FAIL
+
+======================================================================
+FAIL: test_half_score (test_baseline.Controls.test_half_score)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/workspace/shared/frontier-earth/problems/EARTH-003/experiments/catalog-poisson/test_baseline.py", line 12, in test_half_score
+    s=b.score([0,1],.5);self.assertEqual(s['brier'],.25);self.assertAlmostEqual(s['log_loss'],math.log(2))
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 0.0 != 0.25
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (failures=1)

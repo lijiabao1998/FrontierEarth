@@ -1,0 +1,11 @@
+{
+  "python": "3.12.14",
+  "implementation": "CPython",
+  "platform": "Linux-6.18.44-x86_64-with-glibc2.41",
+  "packages": "Python standard library only; no installed packages added",
+  "seed": 196003,
+  "spend_usd": 0,
+  "model_fits": 1,
+  "bootstrap_resamples": 2000,
+  "budget_trial_interpretation": "Numerical bootstrap draws within one fixed run, not 2000 exploratory model trials; no data-driven parameter search."
+}
