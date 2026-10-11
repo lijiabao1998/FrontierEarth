@@ -1,0 +1,614 @@
+{
+  "problems/EARTH-003/results/independent_20261011/.gitattributes": {
+    "bytes": 9,
+    "sha256": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/DAILY_MARCH23_TO24/claimed-results.json": {
+    "bytes": 13838,
+    "sha256": "68f97b7cbc447cf280528e38265e67652502c521301b71893c95434127c0af34"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/DAILY_MARCH23_TO24/daily.csv": {
+    "bytes": 54458,
+    "sha256": "7d0a25bb2f5ccf7efd0ea4f72e544e843107d2f136731dbd80204639b7926764"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/DAILY_MARCH23_TO24/monthly.csv": {
+    "bytes": 1575,
+    "sha256": "0ad49c3a62131e246c6618d1d4d86e6d565c63ff774505b96dc0b5bbd1057ef1"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/DAILY_MARCH23_TO24/semantic-check.json": {
+    "bytes": 589,
+    "sha256": "10997a612e0e84715361a64532fd5f99d28462bd216c3a7d1d4c49fc7bdfc604"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-02/claimed-results.json": {
+    "bytes": 13838,
+    "sha256": "c5c1b294fb7f748a56d43a6b4990becbf435664a6ea4f1df305484bb37de7a03"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-02/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-02/monthly.csv": {
+    "bytes": 1575,
+    "sha256": "995ddf275825c42c31d2cc0b89960e13397d8dba3c72f5962316cab058402bf0"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-02/semantic-check.json": {
+    "bytes": 540,
+    "sha256": "281432394fb0cbf043abfefe9607b4699e46fa85ec17c8a1bcae304555aee428"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-03/claimed-results.json": {
+    "bytes": 13838,
+    "sha256": "98aca2136397bf29fea6e2257c6f08c4dee26ab6ee6368110a74a27763be68c1"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-03/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-03/monthly.csv": {
+    "bytes": 1575,
+    "sha256": "3ba588952e8bd20c8c4d8103150367ad23cc9623d1688ebb4dd0137b61d1b7c7"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-03/semantic-check.json": {
+    "bytes": 538,
+    "sha256": "e6faa177777f7b9d624638c1b72be8c8639e68f45d566dd19a4786729082ee0f"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-05/claimed-results.json": {
+    "bytes": 13838,
+    "sha256": "f3d4cc5bb32cc4195390345a7e5d28ae8533d67a3cf09fb0369d1535f87ff702"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-05/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-05/monthly.csv": {
+    "bytes": 1575,
+    "sha256": "56a22e06629f96526f0d4655c697ccfde37c758d5317d7758c83dc01212b5285"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-05/semantic-check.json": {
+    "bytes": 542,
+    "sha256": "f8849280912eb545f34c42c756ee260f521547b4e7bcc984df210e81b88d5e86"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-06/claimed-results.json": {
+    "bytes": 13838,
+    "sha256": "5ea8e85ed42833148ce86f12cbcf9f31eaed94f7bdc29c29dbb4087ae9968cab"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-06/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-06/monthly.csv": {
+    "bytes": 1575,
+    "sha256": "45ef273e2c13bc21e1adad982a28ffd3b5d5edf00bff312d1666e3f58cfd7a75"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-06/semantic-check.json": {
+    "bytes": 542,
+    "sha256": "25fe2baf17cf1637e120e9804f242e7b1fa62753417f222a9a120f92911f588b"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-07/claimed-results.json": {
+    "bytes": 13838,
+    "sha256": "52377c956e8f0919dd244e8978e2e5028866d09127c8d60e85e21d2ba365528e"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-07/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-07/monthly.csv": {
+    "bytes": 1575,
+    "sha256": "d43be21ac455ca3c002e60a0e5b3b13a71a7636d9d5f26f90ccab0557da3a766"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-07/semantic-check.json": {
+    "bytes": 542,
+    "sha256": "361bd744a76925165b99b86148e8c7f6aa389ac6eab9164c812604b1b169f447"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-08/claimed-results.json": {
+    "bytes": 13838,
+    "sha256": "73a9af14cd77f21bdbe990a07809f422c88fd163f3b1148ddc4918ef31e67e4c"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-08/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-08/monthly.csv": {
+    "bytes": 1575,
+    "sha256": "6d8a7f266af972f6df35e2bff98ac2a96f5a4568fc0cc73a94945406b82781fa"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-08/semantic-check.json": {
+    "bytes": 542,
+    "sha256": "8e7d39cc074fb239e3ef1f407371673e7f603f0158e7a0a9a9b58be590658676"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-10/claimed-results.json": {
+    "bytes": 13838,
+    "sha256": "c5f59ed3e8de98412c33a5620fccc2056e4384ebbe606625ef893e0bf3987ab6"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-10/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-10/monthly.csv": {
+    "bytes": 1575,
+    "sha256": "a0cddc138b4165ca80bd30e011ad7335ec30d3df51d9340f700ff45f2531f147"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-10/semantic-check.json": {
+    "bytes": 538,
+    "sha256": "e259007695722ccd3fdbe05db4e9e016a6bbc0879f3a53918a4fa27a3b02023f"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-11/claimed-results.json": {
+    "bytes": 13838,
+    "sha256": "1723db20652d603fb036e9f5e7b4b7133a66afc3aad11907b410e8ea9a22fb44"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-11/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-11/monthly.csv": {
+    "bytes": 1575,
+    "sha256": "ddd2d64f77c8dd1714fb8d4ff2195a1c06f35b689ac0e5711d3086f999fde9e5"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-11/semantic-check.json": {
+    "bytes": 544,
+    "sha256": "eaf7b6f99713572ef5183bdd5bc32d7f5f45e308131d03e1b30dd662c5f3cd8c"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-12/claimed-results.json": {
+    "bytes": 13838,
+    "sha256": "f2801e4903143e04a5d5c13864b14fd08de42b8a1d2dc844c7f36ebc953992c6"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-12/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-12/monthly.csv": {
+    "bytes": 1575,
+    "sha256": "fe824f7a7c9428197b140f430a5935059a0e6eebb8d25f84ed89032153edc4b2"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2017-12/semantic-check.json": {
+    "bytes": 544,
+    "sha256": "db7a395a84cd2840efad6aedb6a9123d2ba5473fb4e9da34d91148279ff62793"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-01/claimed-results.json": {
+    "bytes": 13838,
+    "sha256": "6d4deccad090d8df85c7804ca8eb33867daf53aadda900df54c6ea8f638e77f7"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-01/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-01/monthly.csv": {
+    "bytes": 1575,
+    "sha256": "c3d1df411a72c62182e9d1289112b0dd9b1984f005b1322b3802b27da4be6439"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-01/semantic-check.json": {
+    "bytes": 540,
+    "sha256": "de034eff8c60c638b1ac5644ef7d9689b871feb9a0fc85660120554cbbbcbc18"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-03/claimed-results.json": {
+    "bytes": 13839,
+    "sha256": "5ea019d10cf4caf2d066832bc7f05bd2a9f1d120b39936c378c9308c8cf63810"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-03/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-03/monthly.csv": {
+    "bytes": 1576,
+    "sha256": "01ff93419b27f345f7558b2babe28095efa32956448e2eed66569025c0179a03"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-03/semantic-check.json": {
+    "bytes": 534,
+    "sha256": "7580bd40127a633b9bab8ab9a94cb65e28f67bf99da7c98b3194f1474b791aa1"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-04/claimed-results.json": {
+    "bytes": 13838,
+    "sha256": "baf8facedb4cecf9bd4c36e77b475005fbeefc781957d778593e91e4671406a1"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-04/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-04/monthly.csv": {
+    "bytes": 1575,
+    "sha256": "4f3cde0b04cd73b63d5bd5b0afc59d83ddba61c8dc75fd94d272fce3d2cfdd92"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-04/semantic-check.json": {
+    "bytes": 544,
+    "sha256": "e53aeaef3a168681f321cce822a2ff3073d316baef31a24ef9e72f73c9d46fc2"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-05/claimed-results.json": {
+    "bytes": 13838,
+    "sha256": "1a14264c5e94aded7fcaa8fe18bf1870a7c8f9acd49a203fb4abca1fb946d7bf"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-05/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-05/monthly.csv": {
+    "bytes": 1575,
+    "sha256": "9b6ea2349167fdaf1428d7913a131ddb23e15ce385d402695c7a28c8b27dc387"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-05/semantic-check.json": {
+    "bytes": 540,
+    "sha256": "58b7e7624ce08e7a030dde2523c42f3269c9175de22d374257a187621929fc58"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-07/claimed-results.json": {
+    "bytes": 13838,
+    "sha256": "736dfd2c4518859311e00f1a8801ef8b3f57662f2f9d2458e6057c9cb40a4af0"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-07/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-07/monthly.csv": {
+    "bytes": 1575,
+    "sha256": "305b0742542f666e650cff0d4b204bc71568360206f65f3bda241900bf34bbc4"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-07/semantic-check.json": {
+    "bytes": 544,
+    "sha256": "69342f8e6ad1674d84a12259fe4984a7e5f61e4186af2a06f948c1f113c60af2"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-08/claimed-results.json": {
+    "bytes": 13838,
+    "sha256": "01f228ae2e5253907609b15916317a65999f067a0bf33d5039075e606bba97c1"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-08/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-08/monthly.csv": {
+    "bytes": 1575,
+    "sha256": "c825ec8201454faa093698dd0247571e19fac918c329c6d230227b30fd9b1dc4"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-08/semantic-check.json": {
+    "bytes": 540,
+    "sha256": "d8c2c260d6ca35f75b49726e4b5edd78ce905c3485349502e1ff4dca5bcd2e43"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-09/claimed-results.json": {
+    "bytes": 13838,
+    "sha256": "58ab764d5a7b4796f9ccc7d928184dff1a7e2cf57b6613114f3e37b16b0dfe31"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-09/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-09/monthly.csv": {
+    "bytes": 1575,
+    "sha256": "f6de12f9c37fb4de1a9e67b16f2cbea56a035287e448eca875e1c19de2542d28"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-09/semantic-check.json": {
+    "bytes": 544,
+    "sha256": "f43a22ead8d6c1b13fd57877f17e1623046ff530a16b77aeb290560869aeb59b"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-11/claimed-results.json": {
+    "bytes": 13838,
+    "sha256": "8d6452db68d99d90193edb072135c765504d3d7bc0cf3dff0748c296c0e3adca"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-11/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-11/monthly.csv": {
+    "bytes": 1575,
+    "sha256": "58a351fc10c239d0739ec82c1eb41ab58b379af58171df2d5adcc010b94368b2"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-11/semantic-check.json": {
+    "bytes": 538,
+    "sha256": "3a93d0dd61b4c80c8dcdaa7a2118a0f8b6f920f32b750cf89aaf0c1c43576e84"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-12/claimed-results.json": {
+    "bytes": 13838,
+    "sha256": "919bd8c1f108dd00147389ac30d7e73b8478f0adcac05ed980bd42b14ca56a51"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-12/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-12/monthly.csv": {
+    "bytes": 1575,
+    "sha256": "fe1ecf79c15bdec861478ab47dda833704ed0dcf47fc6861177f64b7880159ae"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_2018-12/semantic-check.json": {
+    "bytes": 544,
+    "sha256": "457294e690cea0d838b14e40c6cdc9147ab51a5b204c42e9a0a14f5b0358164b"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_calibration/claimed-results.json": {
+    "bytes": 13840,
+    "sha256": "b3b519a68bbdb6373d2f864c0bf8e5299606f30e36e604081712cc1aae706b78"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_calibration/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_calibration/monthly.csv": {
+    "bytes": 1575,
+    "sha256": "0ad49c3a62131e246c6618d1d4d86e6d565c63ff774505b96dc0b5bbd1057ef1"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_calibration/semantic-check.json": {
+    "bytes": 311,
+    "sha256": "c017ecc38f96b50dbe6bc1d72d49cd61b680063e2d3a062b76cecde7d1aa9e6d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_test/claimed-results.json": {
+    "bytes": 13838,
+    "sha256": "561392a41e53bdc7c9ed3442664aa42d6a57b4d36c2a22df643e8e88dea9859b"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_test/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_test/monthly.csv": {
+    "bytes": 1575,
+    "sha256": "0ad49c3a62131e246c6618d1d4d86e6d565c63ff774505b96dc0b5bbd1057ef1"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/LAG_PLUS_001_test/semantic-check.json": {
+    "bytes": 301,
+    "sha256": "04ad3bddb1a6827611bb2fc7b65e0838ef736a1266b4e00b248118745a413110"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/MONTHLY_ONLY_MARCH_LAG_PLUS_001/claimed-results.json": {
+    "bytes": 13838,
+    "sha256": "68f97b7cbc447cf280528e38265e67652502c521301b71893c95434127c0af34"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/MONTHLY_ONLY_MARCH_LAG_PLUS_001/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/MONTHLY_ONLY_MARCH_LAG_PLUS_001/monthly.csv": {
+    "bytes": 1576,
+    "sha256": "01ff93419b27f345f7558b2babe28095efa32956448e2eed66569025c0179a03"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/MONTHLY_ONLY_MARCH_LAG_PLUS_001/semantic-check.json": {
+    "bytes": 539,
+    "sha256": "1470b2b19ed5501f2be73964513c1c52d8f42402b61031268f2ace3c6112c094"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2017-01/claimed-results.json": {
+    "bytes": 13835,
+    "sha256": "6276b806fef2e7e022b776f62070e37b0227f692f6566d7a2cae2cb019f39096"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2017-01/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2017-01/monthly.csv": {
+    "bytes": 1576,
+    "sha256": "58d83a0e7b9b5bbf85abd4e935672e175967228447ea74d5ab1336eece3b9da2"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2017-01/semantic-check.json": {
+    "bytes": 559,
+    "sha256": "bb2cbea922a68156ac2b4e7af77c9dee8ce3f5086edcd3fac66b8ae15fa38732"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2017-04/claimed-results.json": {
+    "bytes": 13835,
+    "sha256": "b150960c6a408fd5cb7d3207b46811217e09f5d91d39cf2d02d3a209e4494f55"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2017-04/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2017-04/monthly.csv": {
+    "bytes": 1576,
+    "sha256": "708d2a1d0d077e2b580e60fefa4df843938d9f798db59992d4f880f5d42def29"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2017-04/semantic-check.json": {
+    "bytes": 559,
+    "sha256": "f06f431aed9b91cf6f96f2116644d4ad31261451c32a10f91e341405e12fdb5d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2017-09/claimed-results.json": {
+    "bytes": 13835,
+    "sha256": "57a29d98d8634f645f5f45e979094194b2e53f7f858c694c5de3822afb506e95"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2017-09/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2017-09/monthly.csv": {
+    "bytes": 1576,
+    "sha256": "cd8894600a15f3de87aaebd8aecffae354616dda9d32a867b6c0306fb60de291"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2017-09/semantic-check.json": {
+    "bytes": 559,
+    "sha256": "302fdb31072f45f26c5e9a7486152d63430d8ebabe6bc01e1cd470d293a18f81"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2018-02/claimed-results.json": {
+    "bytes": 13835,
+    "sha256": "93730eba6b8181bdf08d39e5ce1da62a7e96129c9962bb1253c297e5d34aba9e"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2018-02/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2018-02/monthly.csv": {
+    "bytes": 1576,
+    "sha256": "929b527637d287e225e862357445da470e54ed050212c946f13f715efcb8097e"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2018-02/semantic-check.json": {
+    "bytes": 562,
+    "sha256": "27ff94da4bee4213a669b02dd8eb635b7a73b5334ec84188bdf4e318db716ded"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2018-06/claimed-results.json": {
+    "bytes": 13835,
+    "sha256": "1c40280610a9f448541ea16b831f30a06f191ba0c7895e155154c24973245885"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2018-06/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2018-06/monthly.csv": {
+    "bytes": 1576,
+    "sha256": "6160486b23d89f9924ba7fa0539425073dcc9690e208c4db3513f6e3468120ce"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2018-06/semantic-check.json": {
+    "bytes": 562,
+    "sha256": "e4a566ddde2c53386d790717269a160eeca732fc0645075f582213da83e517eb"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2018-10/claimed-results.json": {
+    "bytes": 13835,
+    "sha256": "23d0a724ea1532495d0ebf1a6cdbe7fd511b18175721fd4269ec24adb8f0b00b"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2018-10/daily.csv": {
+    "bytes": 54458,
+    "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2018-10/monthly.csv": {
+    "bytes": 1576,
+    "sha256": "d48232c1b546d85af702b6f693623115d7d2bd10bb5e680812f8b55884e6c0af"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/controls/NULL_TO_ZERO_2018-10/semantic-check.json": {
+    "bytes": 562,
+    "sha256": "8784fa201fa4b98c543cf7080e5fecc57b7976e09167481a98b18c9c39bd07d7"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/execution.json": {
+    "bytes": 273,
+    "sha256": "5ff5df94c84699ef5598dfae8bd6446262e419ae8e542d6d0940e462c864bf7a"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/independent-calendar-lag.json": {
+    "bytes": 95784,
+    "sha256": "d62c77952db259ffd04689d46b5bded3f1e4d3e436e8b728e8ea4d9d307269bf"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/launch.json": {
+    "bytes": 1175,
+    "sha256": "35418b4f623c7aa0a171c4df5db051e66fac4c06293b15c82e239605e4e12c54"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/result.json": {
+    "bytes": 23554,
+    "sha256": "67ec8badcf485f74cb6114af4dc4cd4d680ab83aafbdd4e0da5394ab07be6d13"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/stderr.txt": {
+    "bytes": 98,
+    "sha256": "8531d820d22f5cdadd3f00c00d592e13c211ecf2ec0fe113c1931848a5ccc97d"
+  },
+  "problems/EARTH-003/results/independent_20261011/attempt-1/stdout.txt": {
+    "bytes": 194,
+    "sha256": "86492c231bce3a686225200963fa2c1dbf3f9513190a8e3905123d720a276d86"
+  },
+  "problems/EARTH-003/results/independent_20261011/commands/earth-admit.json": {
+    "bytes": 718,
+    "sha256": "5fc595aa121087a851c4174fc9634ae2ce760b95d58e9b747f1bf67d3e2307a2"
+  },
+  "problems/EARTH-003/results/independent_20261011/commands/earth-admit.stderr.txt": {
+    "bytes": 98,
+    "sha256": "8531d820d22f5cdadd3f00c00d592e13c211ecf2ec0fe113c1931848a5ccc97d"
+  },
+  "problems/EARTH-003/results/independent_20261011/commands/earth-admit.stdout.txt": {
+    "bytes": 98,
+    "sha256": "d32706599cfee5f07889d6f015e1dfb7ed31dbd196e526a039e31bc97064d132"
+  },
+  "problems/EARTH-003/results/independent_20261011/commands/earth-launch.json": {
+    "bytes": 627,
+    "sha256": "7b5023d0f9333763213f76081ec79aaebd682a49ee50a95f06997b4cf8fa107c"
+  },
+  "problems/EARTH-003/results/independent_20261011/commands/earth-launch.stderr.txt": {
+    "bytes": 98,
+    "sha256": "8531d820d22f5cdadd3f00c00d592e13c211ecf2ec0fe113c1931848a5ccc97d"
+  },
+  "problems/EARTH-003/results/independent_20261011/commands/earth-launch.stdout.txt": {
+    "bytes": 1316,
+    "sha256": "29100dd7e011480e0b55e7b071b2dff152fc072f40cc469a06ce39267d5e3495"
+  },
+  "problems/EARTH-003/results/independent_20261011/commands/protocol-commit.json": {
+    "bytes": 373,
+    "sha256": "a8cad0ff3b6b8acbdf201bd7343cf6da48bc53c941c68240a5af45961f987d88"
+  },
+  "problems/EARTH-003/results/independent_20261011/commands/protocol-commit.stderr.txt": {
+    "bytes": 98,
+    "sha256": "8531d820d22f5cdadd3f00c00d592e13c211ecf2ec0fe113c1931848a5ccc97d"
+  },
+  "problems/EARTH-003/results/independent_20261011/commands/protocol-commit.stdout.txt": {
+    "bytes": 278,
+    "sha256": "fa803c85c5671c759a65b9c176ef3b4a1a4d7e903f6db10f8d47df0ac9ea4e5d"
+  },
+  "problems/EARTH-003/results/independent_20261011/commands/seal.json": {
+    "bytes": 362,
+    "sha256": "023a08b732a8a6cd219c876cf36334332fd15c4c21721cec518ff24715342224"
+  },
+  "problems/EARTH-003/results/independent_20261011/commands/seal.stderr.txt": {
+    "bytes": 98,
+    "sha256": "8531d820d22f5cdadd3f00c00d592e13c211ecf2ec0fe113c1931848a5ccc97d"
+  },
+  "problems/EARTH-003/results/independent_20261011/commands/seal.stdout.txt": {
+    "bytes": 212,
+    "sha256": "a0293cabfe1544caca1552ee2a5e943324366ba209bfd33275e3177928526731"
+  },
+  "problems/EARTH-003/results/independent_20261011/INDEPENDENT_REVIEW.md": {
+    "bytes": 10581,
+    "sha256": "6455a42f94e19f0b478b501ad79ecd26a912d1eb97f66e9bb042931449fe80b0"
+  },
+  "problems/EARTH-003/results/independent_20261011/preparation-failures/COMPUTE_READBACK_FIRST_FAILURE.txt": {
+    "bytes": 1061,
+    "sha256": "6b236f24943f767383d247584c67133a5f49cf518184b952d3678f41dbd421d0"
+  },
+  "problems/EARTH-003/results/independent_20261011/preparation-failures/FrontierEarth-checkout.json": {
+    "bytes": 652,
+    "sha256": "2511f3127b5a1027b9d76ef3a7e13161327935285f955a9fb7587affd33a2c89"
+  },
+  "problems/EARTH-003/results/independent_20261011/preparation-failures/FrontierEarth-checkout.stderr.txt": {
+    "bytes": 66,
+    "sha256": "72476f0a96ea4649e9102dca54f5bd3462b85dbe8292d853c5ab90c045d21d8f"
+  },
+  "problems/EARTH-003/results/independent_20261011/preparation-failures/FrontierEarth-checkout.stdout.txt": {
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "problems/EARTH-003/results/independent_20261011/preparation-failures/FrontierEarth-clone.json": {
+    "bytes": 640,
+    "sha256": "d3961e9b5f88caff92fea70645d44b896134f9b7b916f93f9849dec28e110f27"
+  },
+  "problems/EARTH-003/results/independent_20261011/preparation-failures/FrontierEarth-clone.stderr.txt": {
+    "bytes": 113,
+    "sha256": "438206c52e470f5a5719ae5f1df487023b1332d0ffbe31c04bec4e904605827b"
+  },
+  "problems/EARTH-003/results/independent_20261011/preparation-failures/FrontierEarth-clone.stdout.txt": {
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "problems/EARTH-003/results/independent_20261011/preparation-failures/PREPARATION_FAILURES.json": {
+    "bytes": 1417,
+    "sha256": "f67abea5c225c33ff8255cf98db197191da3de2b755b5ef278e9807f41e5b095"
+  },
+  "problems/EARTH-003/results/independent_20261011/preparation-failures/prepare-final.json": {
+    "bytes": 314,
+    "sha256": "b29f7d5336b092c47c39f2a2563db6b61c540cedb1b75a5782762f4605030942"
+  },
+  "problems/EARTH-003/results/independent_20261011/preparation-failures/prepare-final.stderr.txt": {
+    "bytes": 98,
+    "sha256": "8531d820d22f5cdadd3f00c00d592e13c211ecf2ec0fe113c1931848a5ccc97d"
+  },
+  "problems/EARTH-003/results/independent_20261011/preparation-failures/prepare-final.stdout.txt": {
+    "bytes": 370,
+    "sha256": "e29e1acd42debec3cc404f06536be1cf90a527a0cf1acab7b525e9b2265d5109"
+  },
+  "problems/EARTH-003/results/independent_20261011/preparation-failures/prepare.json": {
+    "bytes": 314,
+    "sha256": "7d3908cf591c2e109958098fccefb4d2bff620083849018af022ad864dd3b52f"
+  },
+  "problems/EARTH-003/results/independent_20261011/preparation-failures/prepare.stderr.txt": {
+    "bytes": 98,
+    "sha256": "8531d820d22f5cdadd3f00c00d592e13c211ecf2ec0fe113c1931848a5ccc97d"
+  },
+  "problems/EARTH-003/results/independent_20261011/preparation-failures/prepare.stdout.txt": {
+    "bytes": 370,
+    "sha256": "1c91c1ae10b70b96c66936a7b1751f264f63bf5e727ce09e40f3ac3850f37286"
+  },
+  "problems/EARTH-003/results/independent_20261011/preparation-failures/publication-support.json": {
+    "bytes": 326,
+    "sha256": "7c1230de980100da6b4148b22951c417d49abf9337d3d9e12f7291d79963a1b1"
+  },
+  "problems/EARTH-003/results/independent_20261011/preparation-failures/publication-support.stderr.txt": {
+    "bytes": 98,
+    "sha256": "8531d820d22f5cdadd3f00c00d592e13c211ecf2ec0fe113c1931848a5ccc97d"
+  },
+  "problems/EARTH-003/results/independent_20261011/preparation-failures/publication-support.stdout.txt": {
+    "bytes": 69,
+    "sha256": "10e0ccecf1a47da6eb0b3ac186a2f43381332ea851b2c43b0d52f0504f5859dd"
+  },
+  "problems/EARTH-003/results/independent_20261011/preparation-failures/support.json": {
+    "bytes": 314,
+    "sha256": "0d17d30ce30a1438d4817567d13ec9b7696f9f9db55dd7cffe6b38f7467b2c99"
+  },
+  "problems/EARTH-003/results/independent_20261011/preparation-failures/support.stderr.txt": {
+    "bytes": 98,
+    "sha256": "8531d820d22f5cdadd3f00c00d592e13c211ecf2ec0fe113c1931848a5ccc97d"
+  },
+  "problems/EARTH-003/results/independent_20261011/preparation-failures/support.stdout.txt": {
+    "bytes": 91,
+    "sha256": "e9e6645a2c3ce2b9dfaec1149c255e8cf6dc2363c78a79c68861fda86b8e3b78"
+  },
+  "problems/EARTH-003/results/independent_20261011/ROUND_REPORT.md": {
+    "bytes": 2130,
+    "sha256": "25159a51486f8e47e4eb1d4ab40fc5dd586ac6dc924a27ea6aa5a53ce176de91"
+  }
+}

@@ -5,7 +5,7 @@
   "branch": "gpt/EARTH-003-lag-independent-20261011",
   "base_sha": "9c903c7734d5a84323ffbc5e55dbd8ccc7df5fa1",
   "started_at": "2026-10-11T20:15:07.636603+00:00",
-  "state": "ADMITTED",
+  "state": "FINISHED",
   "acceptance": "Frozen PROTOCOL.json SHA256 6de99d7e3359e06113de0148622f9a715ad8781d25baaebcb9cdd5e27829cada. All27 retained source events,730 daily projection,24monthly ordering/full diagnostics consistent;26lagfields20numbers within1e-12 and6exactnull; four frozen anchors. All28 fixed semantic mutants rejected independent of integrity hashes. No legacy verifier execution/import because top-level2000 bootstrap is excluded. Overall verdict fail-closed on any failed count/domain/nonfinite/control/infra check.",
   "not_done": "Archived arithmetic only, no new catalog retrieval, model refit, bootstrap, completeness, vintage availability, prospective prediction, physical mechanism, utility or safety claim. Historical no-gain result and original broad problem status preserved. Primary USGS docs and FAQ read; Nature collection direct re-open and FAQ firstdirect request errored; noisy fresh searches do not prove absence of corrections or a broad resolution.",
   "budget": {
@@ -93,7 +93,17 @@
     "problems/EARTH-003/experiments/independent_20261011",
     "problems/EARTH-003/results/independent_20261011"
   ],
-  "result": null,
+  "result": {
+    "verdict": "INDEPENDENT_ARCHIVED_CALENDAR_LAG_PASS",
+    "child_exit_code": 0,
+    "scientific_all_criteria_passed": true,
+    "broad_problem_completion": false,
+    "research_runs": 1,
+    "usd": 0,
+    "summary": "problems/EARTH-003/results/independent_20261011/attempt-1/result.json",
+    "raw_stdout": "problems/EARTH-003/results/independent_20261011/attempt-1/stdout.txt",
+    "raw_stderr": "problems/EARTH-003/results/independent_20261011/attempt-1/stderr.txt"
+  },
   "public_claim": {
     "status": "POSTED_AND_READ_BACK",
     "url": "https://github.com/lijiabao1998/FrontierEarth/pull/4#issuecomment-6113364775",
@@ -102,7 +112,14 @@
     "comment_id": 6113364775
   },
   "execution": {
-    "status": "NOT_RUN"
+    "finished_at": "2026-10-11T20:28:04.209139+00:00",
+    "wall_seconds": 1.1637182999984361,
+    "child_exit_code": 0,
+    "timed_out": false,
+    "cleanup": {},
+    "result_present": true,
+    "verdict": "INDEPENDENT_ARCHIVED_CALENDAR_LAG_PASS",
+    "status": "COMPLETED"
   },
   "execution_inputs_sha256": {
     "problems/EARTH-003/experiments/independent_20261011/.gitattributes": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
@@ -141,5 +158,7 @@
     "problems/EARTH-003/experiments/independent_20261011/SOURCE_MANIFEST.json": "9fbf7cc84409a30ceb7d1c02af21d43efacca835d1610c4d90a41771e9481607",
     "problems/EARTH-003/experiments/independent_20261011/verify.py": "b2e49393f62d3bccb9802177017132f1cd53425fec9bd821c94de76f860e8fcf"
   },
-  "admitted_at": "2026-10-11T20:27:35.286385+00:00"
+  "admitted_at": "2026-10-11T20:27:35.286385+00:00",
+  "finished_at": "2026-10-11T20:28:04.209139+00:00",
+  "independent_review": "Static prelaunch plus final artifact-only review; no reviewer numerical replay."
 }

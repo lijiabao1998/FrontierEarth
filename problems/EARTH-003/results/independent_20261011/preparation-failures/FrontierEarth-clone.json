@@ -1,0 +1,25 @@
+{
+  "command": [
+    "git",
+    "-c",
+    "core.longpaths=true",
+    "-c",
+    "pack.threads=1",
+    "-c",
+    "credential.interactive=false",
+    "-c",
+    "core.askPass=",
+    "-c",
+    "credential.modalPrompt=false",
+    "clone",
+    "--filter=blob:none",
+    "--no-checkout",
+    "https://github.com/lijiabao1998/FrontierEarth.git",
+    "C:\\Users\\Leon1\\Documents\\Codex\\2026-10-12\\task\\fourth-batch-independent-20261011\\FrontierEarth"
+  ],
+  "started_at": "2026-10-11T20:14:39.284287+00:00",
+  "finished_at": "2026-10-11T20:14:40.493518+00:00",
+  "exit_code": 0,
+  "timed_out": false,
+  "cpu_count": 1
+}

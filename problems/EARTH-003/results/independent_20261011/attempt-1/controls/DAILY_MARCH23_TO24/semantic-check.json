@@ -1,0 +1,30 @@
+{
+  "accepted": false,
+  "errors": [
+    {
+      "path": "daily.446.count",
+      "reason": "integer mismatch",
+      "expected": 1,
+      "observed": 0
+    },
+    {
+      "path": "daily.446.occurrence",
+      "reason": "integer mismatch",
+      "expected": 1,
+      "observed": 0
+    },
+    {
+      "path": "daily.447.count",
+      "reason": "integer mismatch",
+      "expected": 0,
+      "observed": 1
+    },
+    {
+      "path": "daily.447.occurrence",
+      "reason": "integer mismatch",
+      "expected": 0,
+      "observed": 1
+    }
+  ],
+  "max_numeric_gap": 1.3877787807814457e-17
+}

@@ -1,0 +1,13 @@
+{
+  "accepted": false,
+  "errors": [
+    {
+      "path": "calibration.lag1_occurrence_autocorrelation",
+      "reason": "numeric mismatch",
+      "gap": 0.010000000000000005,
+      "expected": -0.031158579057348503,
+      "observed": -0.021158579057348498
+    }
+  ],
+  "max_numeric_gap": 0.010000000000000005
+}

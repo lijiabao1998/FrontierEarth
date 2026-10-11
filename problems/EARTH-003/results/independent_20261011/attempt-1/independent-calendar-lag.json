@@ -1,0 +1,5016 @@
+{
+  "events": [
+    {
+      "id": "nc72766046",
+      "date_utc": "2017-02-21"
+    },
+    {
+      "id": "nc72771146",
+      "date_utc": "2017-03-06"
+    },
+    {
+      "id": "nc72782971",
+      "date_utc": "2017-03-31"
+    },
+    {
+      "id": "ci37646983",
+      "date_utc": "2017-05-17"
+    },
+    {
+      "id": "nc72820761",
+      "date_utc": "2017-06-24"
+    },
+    {
+      "id": "nn00596256",
+      "date_utc": "2017-07-17"
+    },
+    {
+      "id": "ci37980632",
+      "date_utc": "2017-08-22"
+    },
+    {
+      "id": "nc72906781",
+      "date_utc": "2017-10-10"
+    },
+    {
+      "id": "ci38031584",
+      "date_utc": "2017-10-26"
+    },
+    {
+      "id": "nc72923380",
+      "date_utc": "2017-11-13"
+    },
+    {
+      "id": "nc72939656",
+      "date_utc": "2017-12-14"
+    },
+    {
+      "id": "nc72948801",
+      "date_utc": "2018-01-04"
+    },
+    {
+      "id": "nc72955520",
+      "date_utc": "2018-01-18"
+    },
+    {
+      "id": "nc72981481",
+      "date_utc": "2018-03-09"
+    },
+    {
+      "id": "nc72988726",
+      "date_utc": "2018-03-22"
+    },
+    {
+      "id": "nc72988926",
+      "date_utc": "2018-03-23"
+    },
+    {
+      "id": "ci37908735",
+      "date_utc": "2018-04-05"
+    },
+    {
+      "id": "ci38167848",
+      "date_utc": "2018-05-08"
+    },
+    {
+      "id": "nc73014276",
+      "date_utc": "2018-05-10"
+    },
+    {
+      "id": "nn00642964",
+      "date_utc": "2018-07-05"
+    },
+    {
+      "id": "ci38245496",
+      "date_utc": "2018-08-15"
+    },
+    {
+      "id": "ci38038071",
+      "date_utc": "2018-08-29"
+    },
+    {
+      "id": "ci37373442",
+      "date_utc": "2018-09-29"
+    },
+    {
+      "id": "nc73105276",
+      "date_utc": "2018-11-02"
+    },
+    {
+      "id": "ci38138175",
+      "date_utc": "2018-11-19"
+    },
+    {
+      "id": "nc73116386",
+      "date_utc": "2018-11-27"
+    },
+    {
+      "id": "ci38386960",
+      "date_utc": "2018-12-05"
+    }
+  ],
+  "daily": [
+    {
+      "date_utc": "2017-01-01",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-02",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-03",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-04",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-05",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-06",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-07",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-08",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-09",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-10",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-11",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-12",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-13",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-14",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-15",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-16",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-17",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-18",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-19",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-20",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-21",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-22",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-23",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-24",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-25",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-26",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-27",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-28",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-29",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-30",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-01-31",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-01",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-02",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-03",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-04",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-05",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-06",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-07",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-08",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-09",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-10",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-11",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-12",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-13",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-14",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-15",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-16",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-17",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-18",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-19",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-20",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-21",
+      "split": "calibration",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2017-02-22",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-23",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-24",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-25",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-26",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-27",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-02-28",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-01",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-02",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-03",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-04",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-05",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-06",
+      "split": "calibration",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2017-03-07",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-08",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-09",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-10",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-11",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-12",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-13",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-14",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-15",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-16",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-17",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-18",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-19",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-20",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-21",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-22",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-23",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-24",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-25",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-26",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-27",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-28",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-29",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-30",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-03-31",
+      "split": "calibration",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2017-04-01",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-02",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-03",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-04",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-05",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-06",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-07",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-08",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-09",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-10",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-11",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-12",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-13",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-14",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-15",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-16",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-17",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-18",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-19",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-20",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-21",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-22",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-23",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-24",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-25",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-26",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-27",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-28",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-29",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-04-30",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-01",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-02",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-03",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-04",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-05",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-06",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-07",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-08",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-09",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-10",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-11",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-12",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-13",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-14",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-15",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-16",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-17",
+      "split": "calibration",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2017-05-18",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-19",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-20",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-21",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-22",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-23",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-24",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-25",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-26",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-27",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-28",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-29",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-30",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-05-31",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-01",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-02",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-03",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-04",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-05",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-06",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-07",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-08",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-09",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-10",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-11",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-12",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-13",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-14",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-15",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-16",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-17",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-18",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-19",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-20",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-21",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-22",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-23",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-24",
+      "split": "calibration",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2017-06-25",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-26",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-27",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-28",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-29",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-06-30",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-01",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-02",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-03",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-04",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-05",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-06",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-07",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-08",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-09",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-10",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-11",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-12",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-13",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-14",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-15",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-16",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-17",
+      "split": "calibration",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2017-07-18",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-19",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-20",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-21",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-22",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-23",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-24",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-25",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-26",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-27",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-28",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-29",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-30",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-07-31",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-01",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-02",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-03",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-04",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-05",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-06",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-07",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-08",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-09",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-10",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-11",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-12",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-13",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-14",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-15",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-16",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-17",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-18",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-19",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-20",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-21",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-22",
+      "split": "calibration",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2017-08-23",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-24",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-25",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-26",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-27",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-28",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-29",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-30",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-08-31",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-01",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-02",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-03",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-04",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-05",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-06",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-07",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-08",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-09",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-10",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-11",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-12",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-13",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-14",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-15",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-16",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-17",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-18",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-19",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-20",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-21",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-22",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-23",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-24",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-25",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-26",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-27",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-28",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-29",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-09-30",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-01",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-02",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-03",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-04",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-05",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-06",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-07",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-08",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-09",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-10",
+      "split": "calibration",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2017-10-11",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-12",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-13",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-14",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-15",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-16",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-17",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-18",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-19",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-20",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-21",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-22",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-23",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-24",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-25",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-26",
+      "split": "calibration",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2017-10-27",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-28",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-29",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-30",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-10-31",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-01",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-02",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-03",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-04",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-05",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-06",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-07",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-08",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-09",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-10",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-11",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-12",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-13",
+      "split": "calibration",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2017-11-14",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-15",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-16",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-17",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-18",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-19",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-20",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-21",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-22",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-23",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-24",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-25",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-26",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-27",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-28",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-29",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-11-30",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-01",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-02",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-03",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-04",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-05",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-06",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-07",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-08",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-09",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-10",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-11",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-12",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-13",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-14",
+      "split": "calibration",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2017-12-15",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-16",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-17",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-18",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-19",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-20",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-21",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-22",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-23",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-24",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-25",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-26",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-27",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-28",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-29",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-30",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2017-12-31",
+      "split": "calibration",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-01",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-02",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-03",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-04",
+      "split": "test",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2018-01-05",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-06",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-07",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-08",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-09",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-10",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-11",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-12",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-13",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-14",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-15",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-16",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-17",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-18",
+      "split": "test",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2018-01-19",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-20",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-21",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-22",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-23",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-24",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-25",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-26",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-27",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-28",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-29",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-30",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-01-31",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-01",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-02",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-03",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-04",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-05",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-06",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-07",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-08",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-09",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-10",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-11",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-12",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-13",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-14",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-15",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-16",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-17",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-18",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-19",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-20",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-21",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-22",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-23",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-24",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-25",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-26",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-27",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-02-28",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-01",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-02",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-03",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-04",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-05",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-06",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-07",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-08",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-09",
+      "split": "test",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2018-03-10",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-11",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-12",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-13",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-14",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-15",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-16",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-17",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-18",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-19",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-20",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-21",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-22",
+      "split": "test",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2018-03-23",
+      "split": "test",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2018-03-24",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-25",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-26",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-27",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-28",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-29",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-30",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-03-31",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-01",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-02",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-03",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-04",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-05",
+      "split": "test",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2018-04-06",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-07",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-08",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-09",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-10",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-11",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-12",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-13",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-14",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-15",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-16",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-17",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-18",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-19",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-20",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-21",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-22",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-23",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-24",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-25",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-26",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-27",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-28",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-29",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-04-30",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-01",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-02",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-03",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-04",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-05",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-06",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-07",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-08",
+      "split": "test",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2018-05-09",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-10",
+      "split": "test",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2018-05-11",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-12",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-13",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-14",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-15",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-16",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-17",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-18",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-19",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-20",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-21",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-22",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-23",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-24",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-25",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-26",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-27",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-28",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-29",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-30",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-05-31",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-01",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-02",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-03",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-04",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-05",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-06",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-07",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-08",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-09",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-10",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-11",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-12",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-13",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-14",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-15",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-16",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-17",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-18",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-19",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-20",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-21",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-22",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-23",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-24",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-25",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-26",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-27",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-28",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-29",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-06-30",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-01",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-02",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-03",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-04",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-05",
+      "split": "test",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2018-07-06",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-07",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-08",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-09",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-10",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-11",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-12",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-13",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-14",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-15",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-16",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-17",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-18",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-19",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-20",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-21",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-22",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-23",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-24",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-25",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-26",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-27",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-28",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-29",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-30",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-07-31",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-01",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-02",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-03",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-04",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-05",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-06",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-07",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-08",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-09",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-10",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-11",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-12",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-13",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-14",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-15",
+      "split": "test",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2018-08-16",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-17",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-18",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-19",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-20",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-21",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-22",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-23",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-24",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-25",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-26",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-27",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-28",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-29",
+      "split": "test",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2018-08-30",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-08-31",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-01",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-02",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-03",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-04",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-05",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-06",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-07",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-08",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-09",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-10",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-11",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-12",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-13",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-14",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-15",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-16",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-17",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-18",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-19",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-20",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-21",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-22",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-23",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-24",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-25",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-26",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-27",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-28",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-09-29",
+      "split": "test",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2018-09-30",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-01",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-02",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-03",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-04",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-05",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-06",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-07",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-08",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-09",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-10",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-11",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-12",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-13",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-14",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-15",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-16",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-17",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-18",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-19",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-20",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-21",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-22",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-23",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-24",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-25",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-26",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-27",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-28",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-29",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-30",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-10-31",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-01",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-02",
+      "split": "test",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2018-11-03",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-04",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-05",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-06",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-07",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-08",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-09",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-10",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-11",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-12",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-13",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-14",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-15",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-16",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-17",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-18",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-19",
+      "split": "test",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2018-11-20",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-21",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-22",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-23",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-24",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-25",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-26",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-27",
+      "split": "test",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2018-11-28",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-29",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-11-30",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-01",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-02",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-03",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-04",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-05",
+      "split": "test",
+      "count": 1,
+      "occurrence": 1
+    },
+    {
+      "date_utc": "2018-12-06",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-07",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-08",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-09",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-10",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-11",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-12",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-13",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-14",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-15",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-16",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-17",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-18",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-19",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-20",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-21",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-22",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-23",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-24",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-25",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-26",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-27",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-28",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-29",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-30",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    },
+    {
+      "date_utc": "2018-12-31",
+      "split": "test",
+      "count": 0,
+      "occurrence": 0
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2017-01",
+      "days": 31,
+      "events": 0,
+      "active_days": 0,
+      "active_day_rate": 0.0,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 0,
+      "daily_count_variance_over_mean": null,
+      "lag1_occurrence_autocorrelation": null
+    },
+    {
+      "month": "2017-02",
+      "days": 28,
+      "events": 1,
+      "active_days": 1,
+      "active_day_rate": 0.03571428571428571,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 1,
+      "daily_count_variance_over_mean": 1.0,
+      "lag1_occurrence_autocorrelation": -0.03835978835978836
+    },
+    {
+      "month": "2017-03",
+      "days": 31,
+      "events": 2,
+      "active_days": 2,
+      "active_day_rate": 0.06451612903225806,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 1,
+      "daily_count_variance_over_mean": 0.9666666666666667,
+      "lag1_occurrence_autocorrelation": -0.03670745272525028
+    },
+    {
+      "month": "2017-04",
+      "days": 30,
+      "events": 0,
+      "active_days": 0,
+      "active_day_rate": 0.0,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 0,
+      "daily_count_variance_over_mean": null,
+      "lag1_occurrence_autocorrelation": null
+    },
+    {
+      "month": "2017-05",
+      "days": 31,
+      "events": 1,
+      "active_days": 1,
+      "active_day_rate": 0.03225806451612903,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 1,
+      "daily_count_variance_over_mean": 1.0,
+      "lag1_occurrence_autocorrelation": -0.034408602150537634
+    },
+    {
+      "month": "2017-06",
+      "days": 30,
+      "events": 1,
+      "active_days": 1,
+      "active_day_rate": 0.03333333333333333,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 1,
+      "daily_count_variance_over_mean": 1.0,
+      "lag1_occurrence_autocorrelation": -0.035632183908045977
+    },
+    {
+      "month": "2017-07",
+      "days": 31,
+      "events": 1,
+      "active_days": 1,
+      "active_day_rate": 0.03225806451612903,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 1,
+      "daily_count_variance_over_mean": 1.0,
+      "lag1_occurrence_autocorrelation": -0.034408602150537634
+    },
+    {
+      "month": "2017-08",
+      "days": 31,
+      "events": 1,
+      "active_days": 1,
+      "active_day_rate": 0.03225806451612903,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 1,
+      "daily_count_variance_over_mean": 1.0,
+      "lag1_occurrence_autocorrelation": -0.034408602150537634
+    },
+    {
+      "month": "2017-09",
+      "days": 30,
+      "events": 0,
+      "active_days": 0,
+      "active_day_rate": 0.0,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 0,
+      "daily_count_variance_over_mean": null,
+      "lag1_occurrence_autocorrelation": null
+    },
+    {
+      "month": "2017-10",
+      "days": 31,
+      "events": 2,
+      "active_days": 2,
+      "active_day_rate": 0.06451612903225806,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 1,
+      "daily_count_variance_over_mean": 0.9666666666666667,
+      "lag1_occurrence_autocorrelation": -0.07119021134593993
+    },
+    {
+      "month": "2017-11",
+      "days": 30,
+      "events": 1,
+      "active_days": 1,
+      "active_day_rate": 0.03333333333333333,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 1,
+      "daily_count_variance_over_mean": 1.0,
+      "lag1_occurrence_autocorrelation": -0.035632183908045977
+    },
+    {
+      "month": "2017-12",
+      "days": 31,
+      "events": 1,
+      "active_days": 1,
+      "active_day_rate": 0.03225806451612903,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 1,
+      "daily_count_variance_over_mean": 1.0,
+      "lag1_occurrence_autocorrelation": -0.034408602150537634
+    },
+    {
+      "month": "2018-01",
+      "days": 31,
+      "events": 2,
+      "active_days": 2,
+      "active_day_rate": 0.06451612903225806,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 1,
+      "daily_count_variance_over_mean": 0.9666666666666667,
+      "lag1_occurrence_autocorrelation": -0.07119021134593993
+    },
+    {
+      "month": "2018-02",
+      "days": 28,
+      "events": 0,
+      "active_days": 0,
+      "active_day_rate": 0.0,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 0,
+      "daily_count_variance_over_mean": null,
+      "lag1_occurrence_autocorrelation": null
+    },
+    {
+      "month": "2018-03",
+      "days": 31,
+      "events": 3,
+      "active_days": 3,
+      "active_day_rate": 0.0967741935483871,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 1,
+      "daily_count_variance_over_mean": 0.9333333333333333,
+      "lag1_occurrence_autocorrelation": 0.2584485407066052
+    },
+    {
+      "month": "2018-04",
+      "days": 30,
+      "events": 1,
+      "active_days": 1,
+      "active_day_rate": 0.03333333333333333,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 1,
+      "daily_count_variance_over_mean": 1.0,
+      "lag1_occurrence_autocorrelation": -0.035632183908045977
+    },
+    {
+      "month": "2018-05",
+      "days": 31,
+      "events": 2,
+      "active_days": 2,
+      "active_day_rate": 0.06451612903225806,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 1,
+      "daily_count_variance_over_mean": 0.9666666666666667,
+      "lag1_occurrence_autocorrelation": -0.07119021134593993
+    },
+    {
+      "month": "2018-06",
+      "days": 30,
+      "events": 0,
+      "active_days": 0,
+      "active_day_rate": 0.0,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 0,
+      "daily_count_variance_over_mean": null,
+      "lag1_occurrence_autocorrelation": null
+    },
+    {
+      "month": "2018-07",
+      "days": 31,
+      "events": 1,
+      "active_days": 1,
+      "active_day_rate": 0.03225806451612903,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 1,
+      "daily_count_variance_over_mean": 1.0,
+      "lag1_occurrence_autocorrelation": -0.034408602150537634
+    },
+    {
+      "month": "2018-08",
+      "days": 31,
+      "events": 2,
+      "active_days": 2,
+      "active_day_rate": 0.06451612903225806,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 1,
+      "daily_count_variance_over_mean": 0.9666666666666667,
+      "lag1_occurrence_autocorrelation": -0.07119021134593993
+    },
+    {
+      "month": "2018-09",
+      "days": 30,
+      "events": 1,
+      "active_days": 1,
+      "active_day_rate": 0.03333333333333333,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 1,
+      "daily_count_variance_over_mean": 1.0,
+      "lag1_occurrence_autocorrelation": -0.035632183908045977
+    },
+    {
+      "month": "2018-10",
+      "days": 31,
+      "events": 0,
+      "active_days": 0,
+      "active_day_rate": 0.0,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 0,
+      "daily_count_variance_over_mean": null,
+      "lag1_occurrence_autocorrelation": null
+    },
+    {
+      "month": "2018-11",
+      "days": 30,
+      "events": 3,
+      "active_days": 3,
+      "active_day_rate": 0.1,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 1,
+      "daily_count_variance_over_mean": 0.9310344827586207,
+      "lag1_occurrence_autocorrelation": -0.11481481481481481
+    },
+    {
+      "month": "2018-12",
+      "days": 31,
+      "events": 1,
+      "active_days": 1,
+      "active_day_rate": 0.03225806451612903,
+      "multiple_event_days": 0,
+      "maximum_events_per_day": 1,
+      "daily_count_variance_over_mean": 1.0,
+      "lag1_occurrence_autocorrelation": -0.034408602150537634
+    }
+  ],
+  "calibration": {
+    "days": 365,
+    "events": 11,
+    "active_days": 11,
+    "active_day_rate": 0.030136986301369864,
+    "multiple_event_days": 0,
+    "maximum_events_per_day": 1,
+    "daily_count_variance_over_mean": 0.9725274725274725,
+    "lag1_occurrence_autocorrelation": -0.031158579057348503
+  },
+  "test": {
+    "days": 365,
+    "events": 16,
+    "active_days": 16,
+    "active_day_rate": 0.043835616438356165,
+    "multiple_event_days": 0,
+    "maximum_events_per_day": 1,
+    "daily_count_variance_over_mean": 0.9587912087912088,
+    "lag1_occurrence_autocorrelation": 0.019394453821093536
+  },
+  "sufficient_statistics": {
+    "calibration": {
+      "N": 365,
+      "K": 11,
+      "A": 0,
+      "E": 0,
+      "numerator": -44286,
+      "denominator": 1421310,
+      "lag": -0.031158579057348503
+    },
+    "test": {
+      "N": 365,
+      "K": 16,
+      "A": 1,
+      "E": 0,
+      "numerator": 39529,
+      "denominator": 2038160,
+      "lag": 0.019394453821093536
+    },
+    "2017-01": {
+      "N": 31,
+      "K": 0,
+      "A": 0,
+      "E": 0,
+      "numerator": 0,
+      "denominator": 0,
+      "lag": null
+    },
+    "2017-02": {
+      "N": 28,
+      "K": 1,
+      "A": 0,
+      "E": 0,
+      "numerator": -29,
+      "denominator": 756,
+      "lag": -0.03835978835978836
+    },
+    "2017-03": {
+      "N": 31,
+      "K": 2,
+      "A": 0,
+      "E": 1,
+      "numerator": -66,
+      "denominator": 1798,
+      "lag": -0.03670745272525028
+    },
+    "2017-04": {
+      "N": 30,
+      "K": 0,
+      "A": 0,
+      "E": 0,
+      "numerator": 0,
+      "denominator": 0,
+      "lag": null
+    },
+    "2017-05": {
+      "N": 31,
+      "K": 1,
+      "A": 0,
+      "E": 0,
+      "numerator": -32,
+      "denominator": 930,
+      "lag": -0.034408602150537634
+    },
+    "2017-06": {
+      "N": 30,
+      "K": 1,
+      "A": 0,
+      "E": 0,
+      "numerator": -31,
+      "denominator": 870,
+      "lag": -0.035632183908045977
+    },
+    "2017-07": {
+      "N": 31,
+      "K": 1,
+      "A": 0,
+      "E": 0,
+      "numerator": -32,
+      "denominator": 930,
+      "lag": -0.034408602150537634
+    },
+    "2017-08": {
+      "N": 31,
+      "K": 1,
+      "A": 0,
+      "E": 0,
+      "numerator": -32,
+      "denominator": 930,
+      "lag": -0.034408602150537634
+    },
+    "2017-09": {
+      "N": 30,
+      "K": 0,
+      "A": 0,
+      "E": 0,
+      "numerator": 0,
+      "denominator": 0,
+      "lag": null
+    },
+    "2017-10": {
+      "N": 31,
+      "K": 2,
+      "A": 0,
+      "E": 0,
+      "numerator": -128,
+      "denominator": 1798,
+      "lag": -0.07119021134593993
+    },
+    "2017-11": {
+      "N": 30,
+      "K": 1,
+      "A": 0,
+      "E": 0,
+      "numerator": -31,
+      "denominator": 870,
+      "lag": -0.035632183908045977
+    },
+    "2017-12": {
+      "N": 31,
+      "K": 1,
+      "A": 0,
+      "E": 0,
+      "numerator": -32,
+      "denominator": 930,
+      "lag": -0.034408602150537634
+    },
+    "2018-01": {
+      "N": 31,
+      "K": 2,
+      "A": 0,
+      "E": 0,
+      "numerator": -128,
+      "denominator": 1798,
+      "lag": -0.07119021134593993
+    },
+    "2018-02": {
+      "N": 28,
+      "K": 0,
+      "A": 0,
+      "E": 0,
+      "numerator": 0,
+      "denominator": 0,
+      "lag": null
+    },
+    "2018-03": {
+      "N": 31,
+      "K": 3,
+      "A": 1,
+      "E": 0,
+      "numerator": 673,
+      "denominator": 2604,
+      "lag": 0.2584485407066052
+    },
+    "2018-04": {
+      "N": 30,
+      "K": 1,
+      "A": 0,
+      "E": 0,
+      "numerator": -31,
+      "denominator": 870,
+      "lag": -0.035632183908045977
+    },
+    "2018-05": {
+      "N": 31,
+      "K": 2,
+      "A": 0,
+      "E": 0,
+      "numerator": -128,
+      "denominator": 1798,
+      "lag": -0.07119021134593993
+    },
+    "2018-06": {
+      "N": 30,
+      "K": 0,
+      "A": 0,
+      "E": 0,
+      "numerator": 0,
+      "denominator": 0,
+      "lag": null
+    },
+    "2018-07": {
+      "N": 31,
+      "K": 1,
+      "A": 0,
+      "E": 0,
+      "numerator": -32,
+      "denominator": 930,
+      "lag": -0.034408602150537634
+    },
+    "2018-08": {
+      "N": 31,
+      "K": 2,
+      "A": 0,
+      "E": 0,
+      "numerator": -128,
+      "denominator": 1798,
+      "lag": -0.07119021134593993
+    },
+    "2018-09": {
+      "N": 30,
+      "K": 1,
+      "A": 0,
+      "E": 0,
+      "numerator": -31,
+      "denominator": 870,
+      "lag": -0.035632183908045977
+    },
+    "2018-10": {
+      "N": 31,
+      "K": 0,
+      "A": 0,
+      "E": 0,
+      "numerator": 0,
+      "denominator": 0,
+      "lag": null
+    },
+    "2018-11": {
+      "N": 30,
+      "K": 3,
+      "A": 0,
+      "E": 0,
+      "numerator": -279,
+      "denominator": 2430,
+      "lag": -0.11481481481481481
+    },
+    "2018-12": {
+      "N": 31,
+      "K": 1,
+      "A": 0,
+      "E": 0,
+      "numerator": -32,
+      "denominator": 930,
+      "lag": -0.034408602150537634
+    }
+  }
+}

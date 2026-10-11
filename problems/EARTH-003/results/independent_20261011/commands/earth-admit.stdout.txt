@@ -1,0 +1,1 @@
+ADMITTED: one budgeted round. Preserve code, seeds, checksums, stdout, failures and limitations.

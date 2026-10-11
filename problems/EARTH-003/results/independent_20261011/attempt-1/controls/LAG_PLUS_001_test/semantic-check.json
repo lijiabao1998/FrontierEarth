@@ -1,0 +1,13 @@
+{
+  "accepted": false,
+  "errors": [
+    {
+      "path": "test.lag1_occurrence_autocorrelation",
+      "reason": "numeric mismatch",
+      "gap": 0.010000000000000005,
+      "expected": 0.019394453821093536,
+      "observed": 0.02939445382109354
+    }
+  ],
+  "max_numeric_gap": 0.010000000000000005
+}

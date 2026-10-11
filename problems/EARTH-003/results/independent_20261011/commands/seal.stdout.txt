@@ -1,0 +1,2 @@
+{"problem": "BIO-001", "frozen_inputs": 27, "scientific_execution": "NOT_RUN", "review": "STATIC_PASS"}
+{"problem": "EARTH-003", "frozen_inputs": 35, "scientific_execution": "NOT_RUN", "review": "STATIC_PASS"}

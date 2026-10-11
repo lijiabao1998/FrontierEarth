@@ -1,0 +1,867 @@
+{
+  "problem": "EARTH-003",
+  "baseline": {
+    "accepted": true,
+    "errors": [],
+    "max_numeric_gap": 1.3877787807814457e-17
+  },
+  "lag_fields": 26,
+  "numeric_lag_fields": 20,
+  "exact_null_fields": 6,
+  "lag_sufficient_statistics": {
+    "calibration": {
+      "N": 365,
+      "K": 11,
+      "A": 0,
+      "E": 0,
+      "numerator": -44286,
+      "denominator": 1421310,
+      "lag": -0.031158579057348503
+    },
+    "test": {
+      "N": 365,
+      "K": 16,
+      "A": 1,
+      "E": 0,
+      "numerator": 39529,
+      "denominator": 2038160,
+      "lag": 0.019394453821093536
+    },
+    "2017-01": {
+      "N": 31,
+      "K": 0,
+      "A": 0,
+      "E": 0,
+      "numerator": 0,
+      "denominator": 0,
+      "lag": null
+    },
+    "2017-02": {
+      "N": 28,
+      "K": 1,
+      "A": 0,
+      "E": 0,
+      "numerator": -29,
+      "denominator": 756,
+      "lag": -0.03835978835978836
+    },
+    "2017-03": {
+      "N": 31,
+      "K": 2,
+      "A": 0,
+      "E": 1,
+      "numerator": -66,
+      "denominator": 1798,
+      "lag": -0.03670745272525028
+    },
+    "2017-04": {
+      "N": 30,
+      "K": 0,
+      "A": 0,
+      "E": 0,
+      "numerator": 0,
+      "denominator": 0,
+      "lag": null
+    },
+    "2017-05": {
+      "N": 31,
+      "K": 1,
+      "A": 0,
+      "E": 0,
+      "numerator": -32,
+      "denominator": 930,
+      "lag": -0.034408602150537634
+    },
+    "2017-06": {
+      "N": 30,
+      "K": 1,
+      "A": 0,
+      "E": 0,
+      "numerator": -31,
+      "denominator": 870,
+      "lag": -0.035632183908045977
+    },
+    "2017-07": {
+      "N": 31,
+      "K": 1,
+      "A": 0,
+      "E": 0,
+      "numerator": -32,
+      "denominator": 930,
+      "lag": -0.034408602150537634
+    },
+    "2017-08": {
+      "N": 31,
+      "K": 1,
+      "A": 0,
+      "E": 0,
+      "numerator": -32,
+      "denominator": 930,
+      "lag": -0.034408602150537634
+    },
+    "2017-09": {
+      "N": 30,
+      "K": 0,
+      "A": 0,
+      "E": 0,
+      "numerator": 0,
+      "denominator": 0,
+      "lag": null
+    },
+    "2017-10": {
+      "N": 31,
+      "K": 2,
+      "A": 0,
+      "E": 0,
+      "numerator": -128,
+      "denominator": 1798,
+      "lag": -0.07119021134593993
+    },
+    "2017-11": {
+      "N": 30,
+      "K": 1,
+      "A": 0,
+      "E": 0,
+      "numerator": -31,
+      "denominator": 870,
+      "lag": -0.035632183908045977
+    },
+    "2017-12": {
+      "N": 31,
+      "K": 1,
+      "A": 0,
+      "E": 0,
+      "numerator": -32,
+      "denominator": 930,
+      "lag": -0.034408602150537634
+    },
+    "2018-01": {
+      "N": 31,
+      "K": 2,
+      "A": 0,
+      "E": 0,
+      "numerator": -128,
+      "denominator": 1798,
+      "lag": -0.07119021134593993
+    },
+    "2018-02": {
+      "N": 28,
+      "K": 0,
+      "A": 0,
+      "E": 0,
+      "numerator": 0,
+      "denominator": 0,
+      "lag": null
+    },
+    "2018-03": {
+      "N": 31,
+      "K": 3,
+      "A": 1,
+      "E": 0,
+      "numerator": 673,
+      "denominator": 2604,
+      "lag": 0.2584485407066052
+    },
+    "2018-04": {
+      "N": 30,
+      "K": 1,
+      "A": 0,
+      "E": 0,
+      "numerator": -31,
+      "denominator": 870,
+      "lag": -0.035632183908045977
+    },
+    "2018-05": {
+      "N": 31,
+      "K": 2,
+      "A": 0,
+      "E": 0,
+      "numerator": -128,
+      "denominator": 1798,
+      "lag": -0.07119021134593993
+    },
+    "2018-06": {
+      "N": 30,
+      "K": 0,
+      "A": 0,
+      "E": 0,
+      "numerator": 0,
+      "denominator": 0,
+      "lag": null
+    },
+    "2018-07": {
+      "N": 31,
+      "K": 1,
+      "A": 0,
+      "E": 0,
+      "numerator": -32,
+      "denominator": 930,
+      "lag": -0.034408602150537634
+    },
+    "2018-08": {
+      "N": 31,
+      "K": 2,
+      "A": 0,
+      "E": 0,
+      "numerator": -128,
+      "denominator": 1798,
+      "lag": -0.07119021134593993
+    },
+    "2018-09": {
+      "N": 30,
+      "K": 1,
+      "A": 0,
+      "E": 0,
+      "numerator": -31,
+      "denominator": 870,
+      "lag": -0.035632183908045977
+    },
+    "2018-10": {
+      "N": 31,
+      "K": 0,
+      "A": 0,
+      "E": 0,
+      "numerator": 0,
+      "denominator": 0,
+      "lag": null
+    },
+    "2018-11": {
+      "N": 30,
+      "K": 3,
+      "A": 0,
+      "E": 0,
+      "numerator": -279,
+      "denominator": 2430,
+      "lag": -0.11481481481481481
+    },
+    "2018-12": {
+      "N": 31,
+      "K": 1,
+      "A": 0,
+      "E": 0,
+      "numerator": -32,
+      "denominator": 930,
+      "lag": -0.034408602150537634
+    }
+  },
+  "anchor_check": {
+    "accepted": true,
+    "errors": [],
+    "max_numeric_gap": 1.3877787807814457e-17
+  },
+  "controls": [
+    {
+      "name": "LAG_PLUS_001_calibration",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "calibration.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000005,
+          "expected": -0.031158579057348503,
+          "observed": -0.021158579057348498
+        }
+      ],
+      "directory": "controls/LAG_PLUS_001_calibration"
+    },
+    {
+      "name": "LAG_PLUS_001_test",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "test.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000005,
+          "expected": 0.019394453821093536,
+          "observed": 0.02939445382109354
+        }
+      ],
+      "directory": "controls/LAG_PLUS_001_test"
+    },
+    {
+      "name": "LAG_PLUS_001_2017-02",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.1.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000016,
+          "expected": -0.03835978835978836,
+          "observed": -0.028359788359788342
+        },
+        {
+          "path": "monthly_csv.1.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000016,
+          "expected": -0.03835978835978836,
+          "observed": -0.028359788359788342
+        }
+      ],
+      "directory": "controls/LAG_PLUS_001_2017-02"
+    },
+    {
+      "name": "LAG_PLUS_001_2017-03",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.2.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.009999999999999988,
+          "expected": -0.03670745272525028,
+          "observed": -0.02670745272525029
+        },
+        {
+          "path": "monthly_csv.2.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.009999999999999988,
+          "expected": -0.03670745272525028,
+          "observed": -0.02670745272525029
+        }
+      ],
+      "directory": "controls/LAG_PLUS_001_2017-03"
+    },
+    {
+      "name": "LAG_PLUS_001_2017-05",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.4.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.034408602150537634,
+          "observed": -0.024408602150537632
+        },
+        {
+          "path": "monthly_csv.4.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.034408602150537634,
+          "observed": -0.024408602150537632
+        }
+      ],
+      "directory": "controls/LAG_PLUS_001_2017-05"
+    },
+    {
+      "name": "LAG_PLUS_001_2017-06",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.5.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.035632183908045977,
+          "observed": -0.025632183908045975
+        },
+        {
+          "path": "monthly_csv.5.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.035632183908045977,
+          "observed": -0.025632183908045975
+        }
+      ],
+      "directory": "controls/LAG_PLUS_001_2017-06"
+    },
+    {
+      "name": "LAG_PLUS_001_2017-07",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.6.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.034408602150537634,
+          "observed": -0.024408602150537632
+        },
+        {
+          "path": "monthly_csv.6.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.034408602150537634,
+          "observed": -0.024408602150537632
+        }
+      ],
+      "directory": "controls/LAG_PLUS_001_2017-07"
+    },
+    {
+      "name": "LAG_PLUS_001_2017-08",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.7.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.034408602150537634,
+          "observed": -0.024408602150537632
+        },
+        {
+          "path": "monthly_csv.7.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.034408602150537634,
+          "observed": -0.024408602150537632
+        }
+      ],
+      "directory": "controls/LAG_PLUS_001_2017-08"
+    },
+    {
+      "name": "LAG_PLUS_001_2017-10",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.9.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.07119021134593993,
+          "observed": -0.06119021134593993
+        },
+        {
+          "path": "monthly_csv.9.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.07119021134593993,
+          "observed": -0.06119021134593993
+        }
+      ],
+      "directory": "controls/LAG_PLUS_001_2017-10"
+    },
+    {
+      "name": "LAG_PLUS_001_2017-11",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.10.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.035632183908045977,
+          "observed": -0.025632183908045975
+        },
+        {
+          "path": "monthly_csv.10.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.035632183908045977,
+          "observed": -0.025632183908045975
+        }
+      ],
+      "directory": "controls/LAG_PLUS_001_2017-11"
+    },
+    {
+      "name": "LAG_PLUS_001_2017-12",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.11.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.034408602150537634,
+          "observed": -0.024408602150537632
+        },
+        {
+          "path": "monthly_csv.11.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.034408602150537634,
+          "observed": -0.024408602150537632
+        }
+      ],
+      "directory": "controls/LAG_PLUS_001_2017-12"
+    },
+    {
+      "name": "LAG_PLUS_001_2018-01",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.12.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.07119021134593993,
+          "observed": -0.06119021134593993
+        },
+        {
+          "path": "monthly_csv.12.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.07119021134593993,
+          "observed": -0.06119021134593993
+        }
+      ],
+      "directory": "controls/LAG_PLUS_001_2018-01"
+    },
+    {
+      "name": "LAG_PLUS_001_2018-03",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.14.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000009,
+          "expected": 0.2584485407066052,
+          "observed": 0.26844854070660523
+        },
+        {
+          "path": "monthly_csv.14.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000009,
+          "expected": 0.2584485407066052,
+          "observed": 0.26844854070660523
+        }
+      ],
+      "directory": "controls/LAG_PLUS_001_2018-03"
+    },
+    {
+      "name": "LAG_PLUS_001_2018-04",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.15.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.035632183908045977,
+          "observed": -0.025632183908045975
+        },
+        {
+          "path": "monthly_csv.15.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.035632183908045977,
+          "observed": -0.025632183908045975
+        }
+      ],
+      "directory": "controls/LAG_PLUS_001_2018-04"
+    },
+    {
+      "name": "LAG_PLUS_001_2018-05",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.16.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.07119021134593993,
+          "observed": -0.06119021134593993
+        },
+        {
+          "path": "monthly_csv.16.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.07119021134593993,
+          "observed": -0.06119021134593993
+        }
+      ],
+      "directory": "controls/LAG_PLUS_001_2018-05"
+    },
+    {
+      "name": "LAG_PLUS_001_2018-07",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.18.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.034408602150537634,
+          "observed": -0.024408602150537632
+        },
+        {
+          "path": "monthly_csv.18.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.034408602150537634,
+          "observed": -0.024408602150537632
+        }
+      ],
+      "directory": "controls/LAG_PLUS_001_2018-07"
+    },
+    {
+      "name": "LAG_PLUS_001_2018-08",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.19.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.07119021134593993,
+          "observed": -0.06119021134593993
+        },
+        {
+          "path": "monthly_csv.19.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.07119021134593993,
+          "observed": -0.06119021134593993
+        }
+      ],
+      "directory": "controls/LAG_PLUS_001_2018-08"
+    },
+    {
+      "name": "LAG_PLUS_001_2018-09",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.20.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.035632183908045977,
+          "observed": -0.025632183908045975
+        },
+        {
+          "path": "monthly_csv.20.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.035632183908045977,
+          "observed": -0.025632183908045975
+        }
+      ],
+      "directory": "controls/LAG_PLUS_001_2018-09"
+    },
+    {
+      "name": "LAG_PLUS_001_2018-11",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.22.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000009,
+          "expected": -0.11481481481481481,
+          "observed": -0.1048148148148148
+        },
+        {
+          "path": "monthly_csv.22.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000009,
+          "expected": -0.11481481481481481,
+          "observed": -0.1048148148148148
+        }
+      ],
+      "directory": "controls/LAG_PLUS_001_2018-11"
+    },
+    {
+      "name": "LAG_PLUS_001_2018-12",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.23.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.034408602150537634,
+          "observed": -0.024408602150537632
+        },
+        {
+          "path": "monthly_csv.23.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000002,
+          "expected": -0.034408602150537634,
+          "observed": -0.024408602150537632
+        }
+      ],
+      "directory": "controls/LAG_PLUS_001_2018-12"
+    },
+    {
+      "name": "NULL_TO_ZERO_2017-01",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.0.lag1_occurrence_autocorrelation",
+          "reason": "value mismatch",
+          "expected": null,
+          "observed": 0
+        },
+        {
+          "path": "monthly_csv.0.lag1_occurrence_autocorrelation",
+          "reason": "value mismatch",
+          "expected": null,
+          "observed": 0.0
+        },
+        {
+          "path": "monthly_crossfile.0.lag1_occurrence_autocorrelation",
+          "reason": "integer mismatch",
+          "expected": 0,
+          "observed": 0.0
+        }
+      ],
+      "directory": "controls/NULL_TO_ZERO_2017-01"
+    },
+    {
+      "name": "NULL_TO_ZERO_2017-04",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.3.lag1_occurrence_autocorrelation",
+          "reason": "value mismatch",
+          "expected": null,
+          "observed": 0
+        },
+        {
+          "path": "monthly_csv.3.lag1_occurrence_autocorrelation",
+          "reason": "value mismatch",
+          "expected": null,
+          "observed": 0.0
+        },
+        {
+          "path": "monthly_crossfile.3.lag1_occurrence_autocorrelation",
+          "reason": "integer mismatch",
+          "expected": 0,
+          "observed": 0.0
+        }
+      ],
+      "directory": "controls/NULL_TO_ZERO_2017-04"
+    },
+    {
+      "name": "NULL_TO_ZERO_2017-09",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.8.lag1_occurrence_autocorrelation",
+          "reason": "value mismatch",
+          "expected": null,
+          "observed": 0
+        },
+        {
+          "path": "monthly_csv.8.lag1_occurrence_autocorrelation",
+          "reason": "value mismatch",
+          "expected": null,
+          "observed": 0.0
+        },
+        {
+          "path": "monthly_crossfile.8.lag1_occurrence_autocorrelation",
+          "reason": "integer mismatch",
+          "expected": 0,
+          "observed": 0.0
+        }
+      ],
+      "directory": "controls/NULL_TO_ZERO_2017-09"
+    },
+    {
+      "name": "NULL_TO_ZERO_2018-02",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.13.lag1_occurrence_autocorrelation",
+          "reason": "value mismatch",
+          "expected": null,
+          "observed": 0
+        },
+        {
+          "path": "monthly_csv.13.lag1_occurrence_autocorrelation",
+          "reason": "value mismatch",
+          "expected": null,
+          "observed": 0.0
+        },
+        {
+          "path": "monthly_crossfile.13.lag1_occurrence_autocorrelation",
+          "reason": "integer mismatch",
+          "expected": 0,
+          "observed": 0.0
+        }
+      ],
+      "directory": "controls/NULL_TO_ZERO_2018-02"
+    },
+    {
+      "name": "NULL_TO_ZERO_2018-06",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.17.lag1_occurrence_autocorrelation",
+          "reason": "value mismatch",
+          "expected": null,
+          "observed": 0
+        },
+        {
+          "path": "monthly_csv.17.lag1_occurrence_autocorrelation",
+          "reason": "value mismatch",
+          "expected": null,
+          "observed": 0.0
+        },
+        {
+          "path": "monthly_crossfile.17.lag1_occurrence_autocorrelation",
+          "reason": "integer mismatch",
+          "expected": 0,
+          "observed": 0.0
+        }
+      ],
+      "directory": "controls/NULL_TO_ZERO_2018-06"
+    },
+    {
+      "name": "NULL_TO_ZERO_2018-10",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_json.21.lag1_occurrence_autocorrelation",
+          "reason": "value mismatch",
+          "expected": null,
+          "observed": 0
+        },
+        {
+          "path": "monthly_csv.21.lag1_occurrence_autocorrelation",
+          "reason": "value mismatch",
+          "expected": null,
+          "observed": 0.0
+        },
+        {
+          "path": "monthly_crossfile.21.lag1_occurrence_autocorrelation",
+          "reason": "integer mismatch",
+          "expected": 0,
+          "observed": 0.0
+        }
+      ],
+      "directory": "controls/NULL_TO_ZERO_2018-10"
+    },
+    {
+      "name": "DAILY_MARCH23_TO24",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "daily.446.count",
+          "reason": "integer mismatch",
+          "expected": 1,
+          "observed": 0
+        },
+        {
+          "path": "daily.446.occurrence",
+          "reason": "integer mismatch",
+          "expected": 1,
+          "observed": 0
+        },
+        {
+          "path": "daily.447.count",
+          "reason": "integer mismatch",
+          "expected": 0,
+          "observed": 1
+        },
+        {
+          "path": "daily.447.occurrence",
+          "reason": "integer mismatch",
+          "expected": 0,
+          "observed": 1
+        }
+      ],
+      "directory": "controls/DAILY_MARCH23_TO24"
+    },
+    {
+      "name": "MONTHLY_ONLY_MARCH_LAG_PLUS_001",
+      "rejected": true,
+      "errors": [
+        {
+          "path": "monthly_csv.14.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000009,
+          "expected": 0.2584485407066052,
+          "observed": 0.26844854070660523
+        },
+        {
+          "path": "monthly_crossfile.14.lag1_occurrence_autocorrelation",
+          "reason": "numeric mismatch",
+          "gap": 0.010000000000000009,
+          "expected": 0.2584485407066052,
+          "observed": 0.26844854070660523
+        }
+      ],
+      "directory": "controls/MONTHLY_ONLY_MARCH_LAG_PLUS_001"
+    }
+  ],
+  "control_count": 28,
+  "all_criteria_passed": true,
+  "verdict": "INDEPENDENT_ARCHIVED_CALENDAR_LAG_PASS",
+  "legacy_checker_executed": false,
+  "limits": "Archived arithmetic only, no new catalog retrieval, model refit, bootstrap, completeness, vintage availability, prospective prediction, physical mechanism, utility or safety claim. Historical no-gain result and original broad problem status preserved. Primary USGS docs and FAQ read; Nature collection direct re-open and FAQ firstdirect request errored; noisy fresh searches do not prove absence of corrections or a broad resolution."
+}

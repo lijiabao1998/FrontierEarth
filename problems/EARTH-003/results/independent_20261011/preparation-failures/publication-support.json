@@ -1,0 +1,12 @@
+{
+  "command": [
+    "python",
+    "-X",
+    "utf8",
+    ".\\fourth-batch-independent-20261011\\publication_support.py"
+  ],
+  "cwd": "C:\\Users\\Leon1\\Documents\\Codex\\2026-10-12\\task",
+  "started_at": "2026-10-11T20:23:58.683706+00:00",
+  "finished_at": "2026-10-11T20:23:58.821969+00:00",
+  "exit_code": 0
+}

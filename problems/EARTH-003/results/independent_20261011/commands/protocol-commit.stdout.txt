@@ -1,0 +1,2 @@
+{"problem": "BIO-001", "protocol_commit": "65e38c5f5bf05f819965880f46654157c4101006", "frozen_files": 27, "all_input_bytes_match": true}
+{"problem": "EARTH-003", "protocol_commit": "28defcec12023360c3c32e8678a642d19968a7b2", "frozen_files": 35, "all_input_bytes_match": true}
