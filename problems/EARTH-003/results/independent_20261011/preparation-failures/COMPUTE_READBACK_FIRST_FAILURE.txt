@@ -1,0 +1,6 @@
+Post-compute metadata-only console read, exit1. Scientific executions were already complete and were not repeated.
+Failed to find real location of C:\Users\Leon1\AppData\Local\Programs\Python\Python313\python.exe
+  File "<string>", line 1
+    from pathlib import Path; import json; p=Path('fourth-batch-independent-20261011'); out=[]; items=(('FrontierBiology','BIO-001'),('FrontierEarth','EARTH-003')); [(out.append({'problem':pid,'execution':json.loads((p/n/'problems'/pid/'results/independent_20261011/attempt-1/execution.json').read_text(encoding='utf-8')),'result':json.loads((p/n/'problems'/pid/'results/independent_20261011/attempt-1/result.json').read_text(encoding='utf-8'))),'stdout':(p/n/'problems'/pid/'results/independent_20261011/attempt-1/stdout.txt').read_text(encoding='utf-8')})) for n,pid in items]; print(json.dumps(out,ensure_ascii=True))
+SyntaxError: closing parenthesis ')' does not match opening parenthesis '{'
+Recovery: saved collect_results.py reads completed JSON/text only; recorded command in evidence/commands/compute-readback.*.

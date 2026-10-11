@@ -1,0 +1,10 @@
+{
+  "finished_at": "2026-10-11T20:28:04.209139+00:00",
+  "wall_seconds": 1.1637182999984361,
+  "child_exit_code": 0,
+  "timed_out": false,
+  "cleanup": {},
+  "result_present": true,
+  "verdict": "INDEPENDENT_ARCHIVED_CALENDAR_LAG_PASS",
+  "status": "COMPLETED"
+}

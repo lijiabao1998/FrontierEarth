@@ -1,0 +1,142 @@
+{
+  "source_head": "9c903c7734d5a84323ffbc5e55dbd8ccc7df5fa1",
+  "instruction_paths": [
+    "AGENTS.md"
+  ],
+  "files": [
+    {
+      "path": "README.md",
+      "snapshot": "reference/README.md",
+      "bytes": 1039,
+      "sha256": "1aab4460ea00925472fae6148693bf8702daaf6666a2d500d12c2bdfa2ea002c",
+      "git_blob": "473836502451de231b7d020e732eaf56c4e3cd3e"
+    },
+    {
+      "path": "STATUS.md",
+      "snapshot": "reference/STATUS.md",
+      "bytes": 1060,
+      "sha256": "f0a25816225fd0030aacdb7c75112f456850cf9a3b5cb307f50d4bd5d9d554a1",
+      "git_blob": "1183cd7b606e6769fecba14142f1414530ec6252"
+    },
+    {
+      "path": "AGENTS.md",
+      "snapshot": "reference/AGENTS.md",
+      "bytes": 342,
+      "sha256": "3b0709eda0de561ba80e27a77a9c9c0bd79f79f5deb8d99df3f2f924bf63c4b5",
+      "git_blob": "683f5614d7b0fa6348f7c74c9f28c43803384666"
+    },
+    {
+      "path": "VALIDATION.md",
+      "snapshot": "reference/VALIDATION.md",
+      "bytes": 399,
+      "sha256": "ec72f1eec2c434a6f271aa4977aeb20db12118ea3a91b0250a3148890c95f882",
+      "git_blob": "9e513cf3929bd37524475cb9a9b23ef3a9d1cbaf"
+    },
+    {
+      "path": "GOVERNANCE.lock.json",
+      "snapshot": "reference/GOVERNANCE.lock.json",
+      "bytes": 132,
+      "sha256": "f19ba2a40df880a4f3c0808ad32219830a3bff2b769fa666d3bc91e45dd24d8b",
+      "git_blob": "1e04287df033aa09e8c7e1da87b8c9408f167e08"
+    },
+    {
+      "path": "problems/EARTH-003/problem.json",
+      "snapshot": "reference/problem.json",
+      "bytes": 1553,
+      "sha256": "f87ee6a3ae1aeb4ed9508b477bc5024f5771211f53c8c3eba009beec4fbfc351",
+      "git_blob": "d56f9f8278e0f76334b138031ff8424b8db1ab7b"
+    },
+    {
+      "path": "problems/EARTH-003/results/catalog-poisson/catalog.csv",
+      "snapshot": "reference/catalog.csv",
+      "bytes": 5229,
+      "sha256": "57ef5435662f29488ad9fe6cd86bd1bb30ea7a530b5ab1810361c8f36508b386",
+      "git_blob": "169219b075bcdb2fcd61355b1743a98367503ae4"
+    },
+    {
+      "path": "problems/EARTH-003/results/catalog-poisson/results.json",
+      "snapshot": "reference/author-results.json",
+      "bytes": 13838,
+      "sha256": "68f97b7cbc447cf280528e38265e67652502c521301b71893c95434127c0af34",
+      "git_blob": "e03ecf9a5b83fb9a27dc67af55129405dd0dae4b"
+    },
+    {
+      "path": "problems/EARTH-003/results/catalog-poisson/daily.csv",
+      "snapshot": "reference/daily.csv",
+      "bytes": 54458,
+      "sha256": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d",
+      "git_blob": "f1e7452557d972ed77b8a1b0303464373bfd26fa"
+    },
+    {
+      "path": "problems/EARTH-003/results/catalog-poisson/monthly.csv",
+      "snapshot": "reference/monthly.csv",
+      "bytes": 1575,
+      "sha256": "0ad49c3a62131e246c6618d1d4d86e6d565c63ff774505b96dc0b5bbd1057ef1",
+      "git_blob": "dba25f0dd49d60e701078991f10d6ec038d6c1e1"
+    },
+    {
+      "path": "problems/EARTH-003/results/catalog-poisson/SHA256SUMS",
+      "snapshot": "reference/SHA256SUMS",
+      "bytes": 2277,
+      "sha256": "919ed9c50d3d0253e7b334691ba0d35f7b5458055d10308b9f7397e36a2b9b91",
+      "git_blob": "63981c6e75168c51a0f34eed978a055829b1a9da"
+    },
+    {
+      "path": "problems/EARTH-003/results/catalog-poisson/retrieval.json",
+      "snapshot": "reference/retrieval.json",
+      "bytes": 1455,
+      "sha256": "f50b9469256dba91a6c2f874062d9bc127560528050d6661af85d5eab9266ba0",
+      "git_blob": "a1b228360e9296070db6af5a0fd9bb19f9735d2d"
+    },
+    {
+      "path": "problems/EARTH-003/results/catalog-poisson/count.txt",
+      "snapshot": "reference/count.txt",
+      "bytes": 2,
+      "sha256": "670671cd97404156226e507973f2ab8330d3022ca96e0c93bdbdb320c41adcaf",
+      "git_blob": "a5c750feac4168f62cfd29aa62b4624f0a430cd5"
+    },
+    {
+      "path": "problems/EARTH-003/results/catalog-poisson/DATA-LICENSE.md",
+      "snapshot": "reference/DATA-LICENSE.md",
+      "bytes": 2214,
+      "sha256": "0ac7448cd8055975bcd2de3615bafab002ea512280b8f7c3dcbd1fa996406617",
+      "git_blob": "99e5fc84326669da22a7bae6c8d916e54d816acb"
+    },
+    {
+      "path": "problems/EARTH-003/results/catalog-poisson/independent-review.json",
+      "snapshot": "reference/independent-review.json",
+      "bytes": 841,
+      "sha256": "d65c66024fac931c2de9c617387cbbd4cd02d8aadb12de7bb6a2ad37c46a78e2",
+      "git_blob": "be91cc3ce419374126649e0003210622be80314a"
+    },
+    {
+      "path": "problems/EARTH-003/experiments/catalog-poisson/baseline.py",
+      "snapshot": "reference/author-source.py",
+      "bytes": 7234,
+      "sha256": "e08e05a681399d4d3751f16539ac5d97f3b7863ef530192a18f58873df3e352b",
+      "git_blob": "da651ed22eeab32e77806d3164e02c9d08ccd5f6"
+    },
+    {
+      "path": "problems/EARTH-003/experiments/catalog-poisson/README.md",
+      "snapshot": "reference/source-experiment-README.md",
+      "bytes": 6950,
+      "sha256": "2327b07344768917578b826bd2826b04b09c2dc4a2ab79fd217e7d0c60f06324",
+      "git_blob": "7634e96e891e2232b112d3f5503413360cd8b4bb"
+    },
+    {
+      "path": "problems/EARTH-003/experiments/catalog-poisson/independent-review/verify_earth.py",
+      "snapshot": "reference/legacy-checker.py",
+      "bytes": 4269,
+      "sha256": "55c97886ef00d8c3490aa08c4df7264821442bfe7ba019e3ae9aa90bdedbedd9",
+      "git_blob": "71d53b77ff97e6a72f4d908b4d7219e95d04f59b"
+    },
+    {
+      "path": "runs/20261009T105820460779Z-gpt-EARTH-003/frozen-spec.json",
+      "snapshot": "reference/frozen-source-spec.json",
+      "bytes": 5105,
+      "sha256": "694cd8ef4743969a05a509b85f0ea78cc02935aba7d42234e7672706e67535a2",
+      "git_blob": "16b664b6da11f8704885fc4335055308f113c2a1"
+    }
+  ],
+  "scientific_execution": "NOT_RUN"
+}

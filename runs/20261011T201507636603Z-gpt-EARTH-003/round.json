@@ -1,0 +1,164 @@
+{
+  "round_id": "20261011T201507636603Z-gpt-EARTH-003",
+  "problem_id": "EARTH-003",
+  "agent": "gpt",
+  "branch": "gpt/EARTH-003-lag-independent-20261011",
+  "base_sha": "9c903c7734d5a84323ffbc5e55dbd8ccc7df5fa1",
+  "started_at": "2026-10-11T20:15:07.636603+00:00",
+  "state": "FINISHED",
+  "acceptance": "Frozen PROTOCOL.json SHA256 6de99d7e3359e06113de0148622f9a715ad8781d25baaebcb9cdd5e27829cada. All27 retained source events,730 daily projection,24monthly ordering/full diagnostics consistent;26lagfields20numbers within1e-12 and6exactnull; four frozen anchors. All28 fixed semantic mutants rejected independent of integrity hashes. No legacy verifier execution/import because top-level2000 bootstrap is excluded. Overall verdict fail-closed on any failed count/domain/nonfinite/control/infra check.",
+  "not_done": "Archived arithmetic only, no new catalog retrieval, model refit, bootstrap, completeness, vintage availability, prospective prediction, physical mechanism, utility or safety claim. Historical no-gain result and original broad problem status preserved. Primary USGS docs and FAQ read; Nature collection direct re-open and FAQ firstdirect request errored; noisy fresh searches do not prove absence of corrections or a broad resolution.",
+  "budget": {
+    "wall_minutes": 30,
+    "usd": 0,
+    "max_trials": 100,
+    "cpu_affinity_count": 1,
+    "concurrency": 1,
+    "preparation_started_at": "2026-10-11T20:06:38+00:00",
+    "preparation_stop_deadline": "2026-10-11T20:36:38+00:00"
+  },
+  "preflight": {
+    "checked_at": "2026-10-11T20:21:43.116314+00:00",
+    "verdict": "PARTIAL_PROGRESS",
+    "queries": [
+      {
+        "category": "general",
+        "query": "California earthquake daily occurrence Poisson catalog forecasting evaluation 2026",
+        "engine": "web.run search index",
+        "outcome": "fresh after official start20:15:07, search20:15:33 plus undatedquery; noisy results; relevant primary reads separate; no broad resolution established"
+      },
+      {
+        "category": "discipline",
+        "query": "site:earthquake.usgs.gov fdsnws event catalog documentation 2026",
+        "engine": "web.run search index",
+        "outcome": "fresh after official start20:15:07, search20:15:33 plus undatedquery; noisy results; relevant primary reads separate; no broad resolution established"
+      },
+      {
+        "category": "solution",
+        "query": "earthquake forecasting solved independent validation 2026 USGS",
+        "engine": "web.run search index",
+        "outcome": "fresh after official start20:15:07, search20:15:33 plus undatedquery; noisy results; relevant primary reads separate; no broad resolution established"
+      },
+      {
+        "category": "criticism",
+        "query": "earthquake forecasting catalog incompleteness correction lag autocorrelation criticism USGS 2026",
+        "engine": "web.run search index",
+        "outcome": "fresh after official start20:15:07, search20:15:33 plus undatedquery; noisy results; relevant primary reads separate; no broad resolution established"
+      },
+      {
+        "category": "solution",
+        "query": "\"earthquake forecasting\" \"independent validation\" \"solved\"",
+        "engine": "web.run search index",
+        "outcome": "fresh after official start20:15:07, search20:15:33 plus undatedquery; noisy results; relevant primary reads separate; no broad resolution established"
+      }
+    ],
+    "sources": [
+      {
+        "title": "USGS FDSN earthquake catalog API documentation",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/",
+        "version": "accessed2026-10-11",
+        "read_scope": "methods/CSV/time UTC/filter parameters/deleted and superseded results",
+        "supports": "Explicit catalog/time/filter semantics; archive is not vintage-completeness evidence.",
+        "kind": "primary"
+      },
+      {
+        "title": "USGS Earthquake Hazards FAQs",
+        "url": "https://www.usgs.gov/programs/earthquake-hazards/science/faqs",
+        "version": "accessed2026-10-11",
+        "read_scope": "forecast/prediction distinction and catalog observing-network caveats",
+        "supports": "Historical daily arithmetic is not a validated earthquake prediction.",
+        "kind": "primary"
+      },
+      {
+        "title": "USGS Copyrights and Credits",
+        "url": "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits",
+        "version": "accessed2026-10-11",
+        "read_scope": "data/public-domain and attribution policy",
+        "supports": "USGS-produced data public domain; attribution retained, not a blanket third-party license.",
+        "kind": "primary"
+      }
+    ],
+    "limitations": "Archived arithmetic only, no new catalog retrieval, model refit, bootstrap, completeness, vintage availability, prospective prediction, physical mechanism, utility or safety claim. Historical no-gain result and original broad problem status preserved. Primary USGS docs and FAQ read; Nature collection direct re-open and FAQ firstdirect request errored; noisy fresh searches do not prove absence of corrections or a broad resolution.",
+    "scope_comparison": "Broad problem unresolved by this arithmetic audit; verify existing previously excluded report fields only.",
+    "baseline": "Inherited source-head report numbers and historical status are expectations, never this round results.",
+    "sources_read": true,
+    "scope_compared": true,
+    "retractions_checked": true,
+    "licenses_checked": true,
+    "safety_checked": true,
+    "baseline_identified": true,
+    "acceptance_frozen": true
+  },
+  "artifacts": [
+    "problems/EARTH-003/experiments/independent_20261011",
+    "problems/EARTH-003/results/independent_20261011"
+  ],
+  "result": {
+    "verdict": "INDEPENDENT_ARCHIVED_CALENDAR_LAG_PASS",
+    "child_exit_code": 0,
+    "scientific_all_criteria_passed": true,
+    "broad_problem_completion": false,
+    "research_runs": 1,
+    "usd": 0,
+    "summary": "problems/EARTH-003/results/independent_20261011/attempt-1/result.json",
+    "raw_stdout": "problems/EARTH-003/results/independent_20261011/attempt-1/stdout.txt",
+    "raw_stderr": "problems/EARTH-003/results/independent_20261011/attempt-1/stderr.txt"
+  },
+  "public_claim": {
+    "status": "POSTED_AND_READ_BACK",
+    "url": "https://github.com/lijiabao1998/FrontierEarth/pull/4#issuecomment-6113364775",
+    "readback_path": "problems/EARTH-003/experiments/independent_20261011/reference/public-claim-readback.json",
+    "readback_sha256": "5df72b13e95ec502caf3c32f7de58d3518d7d4a219a448994e55a6611ede3e7c",
+    "comment_id": 6113364775
+  },
+  "execution": {
+    "finished_at": "2026-10-11T20:28:04.209139+00:00",
+    "wall_seconds": 1.1637182999984361,
+    "child_exit_code": 0,
+    "timed_out": false,
+    "cleanup": {},
+    "result_present": true,
+    "verdict": "INDEPENDENT_ARCHIVED_CALENDAR_LAG_PASS",
+    "status": "COMPLETED"
+  },
+  "execution_inputs_sha256": {
+    "problems/EARTH-003/experiments/independent_20261011/.gitattributes": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
+    "problems/EARTH-003/experiments/independent_20261011/admission_guard.py": "bdb2e5adc78e3746d3d5969a767ad31e452e97adddf1af2fbed1cb7c4ff3eace",
+    "problems/EARTH-003/experiments/independent_20261011/common.py": "067138ed5c0c93d22b4ba3a1188e32e60b6e94500477f0b05db9f26080cc976d",
+    "problems/EARTH-003/experiments/independent_20261011/PROTOCOL.json": "6de99d7e3359e06113de0148622f9a715ad8781d25baaebcb9cdd5e27829cada",
+    "problems/EARTH-003/experiments/independent_20261011/PROTOCOL_REVIEW.json": "90d4d5ecd31b6d23741c4352a62742b50d3ced01a56abb9738f71a778318236d",
+    "problems/EARTH-003/experiments/independent_20261011/PROTOCOL_REVIEW.md": "4cb7e732e8a32d8ab4123683286f54d82849958c666383ac0f02e5a85a5f3d1f",
+    "problems/EARTH-003/experiments/independent_20261011/reference/AGENTS.md": "3b0709eda0de561ba80e27a77a9c9c0bd79f79f5deb8d99df3f2f924bf63c4b5",
+    "problems/EARTH-003/experiments/independent_20261011/reference/author-results.json": "68f97b7cbc447cf280528e38265e67652502c521301b71893c95434127c0af34",
+    "problems/EARTH-003/experiments/independent_20261011/reference/author-source.py": "e08e05a681399d4d3751f16539ac5d97f3b7863ef530192a18f58873df3e352b",
+    "problems/EARTH-003/experiments/independent_20261011/reference/catalog.csv": "57ef5435662f29488ad9fe6cd86bd1bb30ea7a530b5ab1810361c8f36508b386",
+    "problems/EARTH-003/experiments/independent_20261011/reference/count.txt": "670671cd97404156226e507973f2ab8330d3022ca96e0c93bdbdb320c41adcaf",
+    "problems/EARTH-003/experiments/independent_20261011/reference/daily.csv": "b4ab648859c035f6aa149faaf099490fc54bb3140ec66252dce521efdd57f59d",
+    "problems/EARTH-003/experiments/independent_20261011/reference/DATA-LICENSE.md": "0ac7448cd8055975bcd2de3615bafab002ea512280b8f7c3dcbd1fa996406617",
+    "problems/EARTH-003/experiments/independent_20261011/reference/frozen-source-spec.json": "694cd8ef4743969a05a509b85f0ea78cc02935aba7d42234e7672706e67535a2",
+    "problems/EARTH-003/experiments/independent_20261011/reference/governance/AGENTS.md": "8f2b141883a7dbc4d27d1301c06034dea0913a36f1eb84fe5b9f10f9dee76669",
+    "problems/EARTH-003/experiments/independent_20261011/reference/governance/EVIDENCE_POLICY.md": "9924af7546b281a9cb46235222fda6d8efca78978e887c7812ee7a9aa51f3a52",
+    "problems/EARTH-003/experiments/independent_20261011/reference/governance/RESEARCH_PROTOCOL.md": "0c752292b85ea2ccaa4e8794c3e9c9ca6e637fd6fda51f4da3910deb332cc73b",
+    "problems/EARTH-003/experiments/independent_20261011/reference/governance/SAFETY.md": "6a12a2649b34db6dc2c1cbdae0266094509b96007e6600fb5d6e013bb5d224b5",
+    "problems/EARTH-003/experiments/independent_20261011/reference/governance/tools/frontier.py": "b2464f492a348daca02dafcdc4b11fed2ad6cf2af632a11051d155b479e528a9",
+    "problems/EARTH-003/experiments/independent_20261011/reference/GOVERNANCE.lock.json": "f19ba2a40df880a4f3c0808ad32219830a3bff2b769fa666d3bc91e45dd24d8b",
+    "problems/EARTH-003/experiments/independent_20261011/reference/independent-review.json": "d65c66024fac931c2de9c617387cbbd4cd02d8aadb12de7bb6a2ad37c46a78e2",
+    "problems/EARTH-003/experiments/independent_20261011/reference/legacy-checker.py": "55c97886ef00d8c3490aa08c4df7264821442bfe7ba019e3ae9aa90bdedbedd9",
+    "problems/EARTH-003/experiments/independent_20261011/reference/monthly.csv": "0ad49c3a62131e246c6618d1d4d86e6d565c63ff774505b96dc0b5bbd1057ef1",
+    "problems/EARTH-003/experiments/independent_20261011/reference/problem.json": "f87ee6a3ae1aeb4ed9508b477bc5024f5771211f53c8c3eba009beec4fbfc351",
+    "problems/EARTH-003/experiments/independent_20261011/reference/public-claim-readback.json": "5df72b13e95ec502caf3c32f7de58d3518d7d4a219a448994e55a6611ede3e7c",
+    "problems/EARTH-003/experiments/independent_20261011/reference/README.md": "1aab4460ea00925472fae6148693bf8702daaf6666a2d500d12c2bdfa2ea002c",
+    "problems/EARTH-003/experiments/independent_20261011/reference/retrieval.json": "f50b9469256dba91a6c2f874062d9bc127560528050d6661af85d5eab9266ba0",
+    "problems/EARTH-003/experiments/independent_20261011/reference/SHA256SUMS": "919ed9c50d3d0253e7b334691ba0d35f7b5458055d10308b9f7397e36a2b9b91",
+    "problems/EARTH-003/experiments/independent_20261011/reference/source-experiment-README.md": "2327b07344768917578b826bd2826b04b09c2dc4a2ab79fd217e7d0c60f06324",
+    "problems/EARTH-003/experiments/independent_20261011/reference/STATUS.md": "f0a25816225fd0030aacdb7c75112f456850cf9a3b5cb307f50d4bd5d9d554a1",
+    "problems/EARTH-003/experiments/independent_20261011/reference/VALIDATION.md": "ec72f1eec2c434a6f271aa4977aeb20db12118ea3a91b0250a3148890c95f882",
+    "problems/EARTH-003/experiments/independent_20261011/reference/WEB_TRACE.json": "68e1fabafad14a9a3ce1f3d350cb5a9971d1e92d0ba4e7ec66c1c9524c0bb04d",
+    "problems/EARTH-003/experiments/independent_20261011/run_bounded.py": "ca43afe0e3cfda5f615fe2f05f5d3d00782a16999e48e2b5ced8db72fb8e86a6",
+    "problems/EARTH-003/experiments/independent_20261011/SOURCE_MANIFEST.json": "9fbf7cc84409a30ceb7d1c02af21d43efacca835d1610c4d90a41771e9481607",
+    "problems/EARTH-003/experiments/independent_20261011/verify.py": "b2e49393f62d3bccb9802177017132f1cd53425fec9bd821c94de76f860e8fcf"
+  },
+  "admitted_at": "2026-10-11T20:27:35.286385+00:00",
+  "finished_at": "2026-10-11T20:28:04.209139+00:00",
+  "independent_review": "Static prelaunch plus final artifact-only review; no reviewer numerical replay."
+}

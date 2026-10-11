@@ -1,0 +1,36 @@
+{
+  "retrieved_at": "2026-10-09T11:06:34.485172+00:00",
+  "parameters": {
+    "format": "csv",
+    "starttime": "2017-01-01T00:00:00",
+    "endtime": "2019-01-01T00:00:00",
+    "minlatitude": 32,
+    "maxlatitude": 42,
+    "minlongitude": -125,
+    "maxlongitude": -114,
+    "minmagnitude": 4.0,
+    "mindepth": -100,
+    "maxdepth": 1000,
+    "eventtype": "earthquake",
+    "orderby": "time-asc",
+    "limit": 20000
+  },
+  "requests": [
+    {
+      "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2017-01-01T00%3A00%3A00&endtime=2019-01-01T00%3A00%3A00&minlatitude=32&maxlatitude=42&minlongitude=-125&maxlongitude=-114&minmagnitude=4.0&mindepth=-100&maxdepth=1000&eventtype=earthquake&orderby=time-asc&limit=20000",
+      "http_status": 200,
+      "content_type": "text/csv; charset=utf-8",
+      "bytes": 5229,
+      "sha256": "57ef5435662f29488ad9fe6cd86bd1bb30ea7a530b5ab1810361c8f36508b386",
+      "saved_as": "catalog.csv"
+    },
+    {
+      "url": "https://earthquake.usgs.gov/fdsnws/event/1/count?starttime=2017-01-01T00%3A00%3A00&endtime=2019-01-01T00%3A00%3A00&minlatitude=32&maxlatitude=42&minlongitude=-125&maxlongitude=-114&minmagnitude=4.0&mindepth=-100&maxdepth=1000&eventtype=earthquake",
+      "http_status": 200,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 2,
+      "sha256": "670671cd97404156226e507973f2ab8330d3022ca96e0c93bdbdb320c41adcaf",
+      "saved_as": "count.txt"
+    }
+  ]
+}

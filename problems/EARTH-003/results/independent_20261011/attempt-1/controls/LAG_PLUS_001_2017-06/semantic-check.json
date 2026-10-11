@@ -1,0 +1,20 @@
+{
+  "accepted": false,
+  "errors": [
+    {
+      "path": "monthly_json.5.lag1_occurrence_autocorrelation",
+      "reason": "numeric mismatch",
+      "gap": 0.010000000000000002,
+      "expected": -0.035632183908045977,
+      "observed": -0.025632183908045975
+    },
+    {
+      "path": "monthly_csv.5.lag1_occurrence_autocorrelation",
+      "reason": "numeric mismatch",
+      "gap": 0.010000000000000002,
+      "expected": -0.035632183908045977,
+      "observed": -0.025632183908045975
+    }
+  ],
+  "max_numeric_gap": 0.010000000000000002
+}

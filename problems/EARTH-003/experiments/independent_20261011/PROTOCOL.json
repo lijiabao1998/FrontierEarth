@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "problem": "EARTH-003",
+  "source_head": "9c903c7734d5a84323ffbc5e55dbd8ccc7df5fa1",
+  "scope": "Independent verification of previously unverified26 lag1 report fields and calendar consistency from archived27 public USGS catalog events.",
+  "definition": "UTC2017-01-01 inclusive to2019-01-01 exclusive, lat32..42/lon-125..-114/depth-100..1000/M>=4/earthquake; unique ids. Reconstruct730 daily dates/counts/occurrence and24 ordered months, compare daily projection and full monthly diagnostics JSON/CSV. Noncyclic lag uses complete-segment global mean: Nlength,Kactive,Aadjacent active pairs,Efirst+last; exact Fraction [N^2*A+N*K*E-(N+1)*K^2]/[N*K*(N-K)], null if K0 orN.26lags:20 finite numbers abs tolerance1e-12, six null exact. Additional monthly variance/mean from exact integer sums, no fit/bootstrap.",
+  "controls": [
+    {
+      "name": "LAG_PLUS_001_calibration",
+      "operation": "add .01 to JSON and matching monthly CSV (annual JSON only)"
+    },
+    {
+      "name": "LAG_PLUS_001_test",
+      "operation": "add .01 to JSON and matching monthly CSV (annual JSON only)"
+    },
+    {
+      "name": "LAG_PLUS_001_2017-02",
+      "operation": "add .01 to JSON and matching monthly CSV (annual JSON only)"
+    },
+    {
+      "name": "LAG_PLUS_001_2017-03",
+      "operation": "add .01 to JSON and matching monthly CSV (annual JSON only)"
+    },
+    {
+      "name": "LAG_PLUS_001_2017-05",
+      "operation": "add .01 to JSON and matching monthly CSV (annual JSON only)"
+    },
+    {
+      "name": "LAG_PLUS_001_2017-06",
+      "operation": "add .01 to JSON and matching monthly CSV (annual JSON only)"
+    },
+    {
+      "name": "LAG_PLUS_001_2017-07",
+      "operation": "add .01 to JSON and matching monthly CSV (annual JSON only)"
+    },
+    {
+      "name": "LAG_PLUS_001_2017-08",
+      "operation": "add .01 to JSON and matching monthly CSV (annual JSON only)"
+    },
+    {
+      "name": "LAG_PLUS_001_2017-10",
+      "operation": "add .01 to JSON and matching monthly CSV (annual JSON only)"
+    },
+    {
+      "name": "LAG_PLUS_001_2017-11",
+      "operation": "add .01 to JSON and matching monthly CSV (annual JSON only)"
+    },
+    {
+      "name": "LAG_PLUS_001_2017-12",
+      "operation": "add .01 to JSON and matching monthly CSV (annual JSON only)"
+    },
+    {
+      "name": "LAG_PLUS_001_2018-01",
+      "operation": "add .01 to JSON and matching monthly CSV (annual JSON only)"
+    },
+    {
+      "name": "LAG_PLUS_001_2018-03",
+      "operation": "add .01 to JSON and matching monthly CSV (annual JSON only)"
+    },
+    {
+      "name": "LAG_PLUS_001_2018-04",
+      "operation": "add .01 to JSON and matching monthly CSV (annual JSON only)"
+    },
+    {
+      "name": "LAG_PLUS_001_2018-05",
+      "operation": "add .01 to JSON and matching monthly CSV (annual JSON only)"
+    },
+    {
+      "name": "LAG_PLUS_001_2018-07",
+      "operation": "add .01 to JSON and matching monthly CSV (annual JSON only)"
+    },
+    {
+      "name": "LAG_PLUS_001_2018-08",
+      "operation": "add .01 to JSON and matching monthly CSV (annual JSON only)"
+    },
+    {
+      "name": "LAG_PLUS_001_2018-09",
+      "operation": "add .01 to JSON and matching monthly CSV (annual JSON only)"
+    },
+    {
+      "name": "LAG_PLUS_001_2018-11",
+      "operation": "add .01 to JSON and matching monthly CSV (annual JSON only)"
+    },
+    {
+      "name": "LAG_PLUS_001_2018-12",
+      "operation": "add .01 to JSON and matching monthly CSV (annual JSON only)"
+    },
+    {
+      "name": "NULL_TO_ZERO_2017-01",
+      "operation": "null to integer0 in both monthly JSON/CSV"
+    },
+    {
+      "name": "NULL_TO_ZERO_2017-04",
+      "operation": "null to integer0 in both monthly JSON/CSV"
+    },
+    {
+      "name": "NULL_TO_ZERO_2017-09",
+      "operation": "null to integer0 in both monthly JSON/CSV"
+    },
+    {
+      "name": "NULL_TO_ZERO_2018-02",
+      "operation": "null to integer0 in both monthly JSON/CSV"
+    },
+    {
+      "name": "NULL_TO_ZERO_2018-06",
+      "operation": "null to integer0 in both monthly JSON/CSV"
+    },
+    {
+      "name": "NULL_TO_ZERO_2018-10",
+      "operation": "null to integer0 in both monthly JSON/CSV"
+    },
+    {
+      "name": "DAILY_MARCH23_TO24",
+      "operation": "daily-only2018-03-23 count/occurrence1->0,2018-03-24 0->1; raw catalog unchanged; March events/active-day totals unchanged3; semantic daily audit rejects"
+    },
+    {
+      "name": "MONTHLY_ONLY_MARCH_LAG_PLUS_001",
+      "operation": "monthly.csv2018-03 lag+.01, JSON unchanged; semantic cross-file audit rejects"
+    }
+  ],
+  "acceptance": "All27 retained source events,730 daily projection,24monthly ordering/full diagnostics consistent;26lagfields20numbers within1e-12 and6exactnull; four frozen anchors. All28 fixed semantic mutants rejected independent of integrity hashes. No legacy verifier execution/import because top-level2000 bootstrap is excluded. Overall verdict fail-closed on any failed count/domain/nonfinite/control/infra check.",
+  "limits": "Archived arithmetic only, no new catalog retrieval, model refit, bootstrap, completeness, vintage availability, prospective prediction, physical mechanism, utility or safety claim. Historical no-gain result and original broad problem status preserved. Primary USGS docs and FAQ read; Nature collection direct re-open and FAQ firstdirect request errored; noisy fresh searches do not prove absence of corrections or a broad resolution.",
+  "preflight": {
+    "checked_at": "2026-10-11T20:21:43.116314+00:00",
+    "verdict": "PARTIAL_PROGRESS",
+    "queries": [
+      {
+        "category": "general",
+        "query": "California earthquake daily occurrence Poisson catalog forecasting evaluation 2026",
+        "engine": "web.run search index",
+        "outcome": "fresh after official start20:15:07, search20:15:33 plus undatedquery; noisy results; relevant primary reads separate; no broad resolution established"
+      },
+      {
+        "category": "discipline",
+        "query": "site:earthquake.usgs.gov fdsnws event catalog documentation 2026",
+        "engine": "web.run search index",
+        "outcome": "fresh after official start20:15:07, search20:15:33 plus undatedquery; noisy results; relevant primary reads separate; no broad resolution established"
+      },
+      {
+        "category": "solution",
+        "query": "earthquake forecasting solved independent validation 2026 USGS",
+        "engine": "web.run search index",
+        "outcome": "fresh after official start20:15:07, search20:15:33 plus undatedquery; noisy results; relevant primary reads separate; no broad resolution established"
+      },
+      {
+        "category": "criticism",
+        "query": "earthquake forecasting catalog incompleteness correction lag autocorrelation criticism USGS 2026",
+        "engine": "web.run search index",
+        "outcome": "fresh after official start20:15:07, search20:15:33 plus undatedquery; noisy results; relevant primary reads separate; no broad resolution established"
+      },
+      {
+        "category": "solution",
+        "query": "\"earthquake forecasting\" \"independent validation\" \"solved\"",
+        "engine": "web.run search index",
+        "outcome": "fresh after official start20:15:07, search20:15:33 plus undatedquery; noisy results; relevant primary reads separate; no broad resolution established"
+      }
+    ],
+    "sources": [
+      {
+        "title": "USGS FDSN earthquake catalog API documentation",
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/",
+        "version": "accessed2026-10-11",
+        "read_scope": "methods/CSV/time UTC/filter parameters/deleted and superseded results",
+        "supports": "Explicit catalog/time/filter semantics; archive is not vintage-completeness evidence.",
+        "kind": "primary"
+      },
+      {
+        "title": "USGS Earthquake Hazards FAQs",
+        "url": "https://www.usgs.gov/programs/earthquake-hazards/science/faqs",
+        "version": "accessed2026-10-11",
+        "read_scope": "forecast/prediction distinction and catalog observing-network caveats",
+        "supports": "Historical daily arithmetic is not a validated earthquake prediction.",
+        "kind": "primary"
+      },
+      {
+        "title": "USGS Copyrights and Credits",
+        "url": "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits",
+        "version": "accessed2026-10-11",
+        "read_scope": "data/public-domain and attribution policy",
+        "supports": "USGS-produced data public domain; attribution retained, not a blanket third-party license.",
+        "kind": "primary"
+      }
+    ],
+    "limitations": "Archived arithmetic only, no new catalog retrieval, model refit, bootstrap, completeness, vintage availability, prospective prediction, physical mechanism, utility or safety claim. Historical no-gain result and original broad problem status preserved. Primary USGS docs and FAQ read; Nature collection direct re-open and FAQ firstdirect request errored; noisy fresh searches do not prove absence of corrections or a broad resolution.",
+    "scope_comparison": "Broad problem unresolved by this arithmetic audit; verify existing previously excluded report fields only.",
+    "baseline": "Inherited source-head report numbers and historical status are expectations, never this round results.",
+    "sources_read": true,
+    "scope_compared": true,
+    "retractions_checked": true,
+    "licenses_checked": true,
+    "safety_checked": true,
+    "baseline_identified": true,
+    "acceptance_frozen": true
+  },
+  "budget": {
+    "wall_minutes": 30,
+    "usd": 0,
+    "max_trials": 100,
+    "cpu_affinity_count": 1,
+    "concurrency": 1,
+    "preparation_started_at": "2026-10-11T20:06:38+00:00",
+    "preparation_stop_deadline": "2026-10-11T20:36:38+00:00"
+  },
+  "execution": "NOT_RUN",
+  "daily_csv_header": [
+    "date_utc",
+    "split",
+    "count",
+    "occurrence",
+    "poisson",
+    "bernoulli_climatology",
+    "zero",
+    "half"
+  ],
+  "null_months": [
+    "2017-01",
+    "2017-04",
+    "2017-09",
+    "2018-02",
+    "2018-06",
+    "2018-10"
+  ]
+}

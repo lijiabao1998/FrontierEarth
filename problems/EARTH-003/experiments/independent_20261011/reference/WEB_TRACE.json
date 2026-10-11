@@ -1,0 +1,64 @@
+{
+  "official_started_at": "2026-10-11T20:15:07.636603+00:00",
+  "search_started_at": "2026-10-11T20:15:33+00:00",
+  "queries": [
+    {
+      "category": "general",
+      "query": "California earthquake daily occurrence Poisson catalog forecasting evaluation 2026",
+      "engine": "web.run search index",
+      "outcome": "fresh after official start20:15:07, search20:15:33 plus undatedquery; noisy results; relevant primary reads separate; no broad resolution established"
+    },
+    {
+      "category": "discipline",
+      "query": "site:earthquake.usgs.gov fdsnws event catalog documentation 2026",
+      "engine": "web.run search index",
+      "outcome": "fresh after official start20:15:07, search20:15:33 plus undatedquery; noisy results; relevant primary reads separate; no broad resolution established"
+    },
+    {
+      "category": "solution",
+      "query": "earthquake forecasting solved independent validation 2026 USGS",
+      "engine": "web.run search index",
+      "outcome": "fresh after official start20:15:07, search20:15:33 plus undatedquery; noisy results; relevant primary reads separate; no broad resolution established"
+    },
+    {
+      "category": "criticism",
+      "query": "earthquake forecasting catalog incompleteness correction lag autocorrelation criticism USGS 2026",
+      "engine": "web.run search index",
+      "outcome": "fresh after official start20:15:07, search20:15:33 plus undatedquery; noisy results; relevant primary reads separate; no broad resolution established"
+    },
+    {
+      "category": "solution",
+      "query": "\"earthquake forecasting\" \"independent validation\" \"solved\"",
+      "engine": "web.run search index",
+      "outcome": "fresh after official start20:15:07, search20:15:33 plus undatedquery; noisy results; relevant primary reads separate; no broad resolution established"
+    }
+  ],
+  "primary_readings": [
+    {
+      "title": "USGS FDSN earthquake catalog API documentation",
+      "url": "https://earthquake.usgs.gov/fdsnws/event/1/",
+      "version": "accessed2026-10-11",
+      "read_scope": "methods/CSV/time UTC/filter parameters/deleted and superseded results",
+      "supports": "Explicit catalog/time/filter semantics; archive is not vintage-completeness evidence.",
+      "kind": "primary"
+    },
+    {
+      "title": "USGS Earthquake Hazards FAQs",
+      "url": "https://www.usgs.gov/programs/earthquake-hazards/science/faqs",
+      "version": "accessed2026-10-11",
+      "read_scope": "forecast/prediction distinction and catalog observing-network caveats",
+      "supports": "Historical daily arithmetic is not a validated earthquake prediction.",
+      "kind": "primary"
+    },
+    {
+      "title": "USGS Copyrights and Credits",
+      "url": "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits",
+      "version": "accessed2026-10-11",
+      "read_scope": "data/public-domain and attribution policy",
+      "supports": "USGS-produced data public domain; attribution retained, not a blanket third-party license.",
+      "kind": "primary"
+    }
+  ],
+  "failures_retained": "Original GEO/PMC challenges, Science/InternalError and direct Nature collection re-open/FAQ failures retained in local batch evidence; no challenge bypass. Large raw web output remains local; no broad resolution claim.",
+  "round_id": "20261011T201507636603Z-gpt-EARTH-003"
+}

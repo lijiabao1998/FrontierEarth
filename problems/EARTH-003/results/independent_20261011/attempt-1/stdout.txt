@@ -1,0 +1,1 @@
+{"verdict": "INDEPENDENT_ARCHIVED_CALENDAR_LAG_PASS", "lag_fields": 26, "numeric": 20, "null": 6, "max_numeric_gap": 1.3877787807814457e-17, "controls_rejected": 28, "all_criteria_pass": true}

@@ -1,0 +1,30 @@
+{
+  "source_checkout": {
+    "repository": "FrontierBiology",
+    "command_timeout_seconds": 60,
+    "exception": "subprocess.TimeoutExpired during original git switch; original helper did not persist partial stdout/stderr",
+    "later_exact_head_branch_and_clean_readback": true,
+    "logs": "evidence/source-commands; original clone stdout/stderr retained"
+  },
+  "initial_v1_start": {
+    "exit_code": 1,
+    "command": "python -X utf8 GovernanceSnapshot/tools/frontier.py start FrontierBiology BIO-001 --agent gpt --topic metadata-independent-20261011",
+    "stderr": "frontier.py: error: unrecognized arguments: --topic metadata-independent-20261011",
+    "recovery": "Correct pinned v1 CLI used without --topic; official round20:15:07.479060"
+  },
+  "pre_round_search": "Earlier search20:14.. before successful official start excluded from admission; repeated20:15:33 after both starts",
+  "primary_reads": {
+    "BIO": [
+      "GEO/PMC reCAPTCHA page",
+      "Science InternalError",
+      "EuropePMC REST InternalError"
+    ],
+    "EARTH": [
+      "first direct USGS FAQ InternalError",
+      "Nature collection re-open nonretryable cookie redirect",
+      "GFZ primary InternalError"
+    ]
+  },
+  "nonfatal_stderr": "Python real-location warning retained in every recorded command",
+  "scientific_execution": "NOT_RUN at protocol preparation; no discarded scientific attempt"
+}

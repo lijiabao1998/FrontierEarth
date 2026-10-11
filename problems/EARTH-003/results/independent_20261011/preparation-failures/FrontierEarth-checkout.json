@@ -1,0 +1,26 @@
+{
+  "command": [
+    "git",
+    "-c",
+    "core.longpaths=true",
+    "-c",
+    "pack.threads=1",
+    "-c",
+    "credential.interactive=false",
+    "-c",
+    "core.askPass=",
+    "-c",
+    "credential.modalPrompt=false",
+    "-C",
+    "C:\\Users\\Leon1\\Documents\\Codex\\2026-10-12\\task\\fourth-batch-independent-20261011\\FrontierEarth",
+    "switch",
+    "-c",
+    "gpt/EARTH-003-lag-independent-20261011",
+    "9c903c7734d5a84323ffbc5e55dbd8ccc7df5fa1"
+  ],
+  "started_at": "2026-10-11T20:14:40.493982+00:00",
+  "finished_at": "2026-10-11T20:14:41.451462+00:00",
+  "exit_code": 0,
+  "timed_out": false,
+  "cpu_count": 1
+}
