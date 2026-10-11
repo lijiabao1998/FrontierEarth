@@ -1,0 +1,10 @@
+{
+  "id": 6113364775,
+  "html_url": "https://github.com/lijiabao1998/FrontierEarth/pull/4#issuecomment-6113364775",
+  "url": "https://api.github.com/repos/lijiabao1998/FrontierEarth/issues/comments/6113364775",
+  "body": "Independent bounded verification registration: EARTH-003; source head 9c903c7734d5a84323ffbc5e55dbd8ccc7df5fa1; new round 20261011T201507636603Z-gpt-EARTH-003; branch gpt/EARTH-003-lag-independent-20261011.\n\nScope: Independent verification of previously unverified26 lag1 report fields and calendar consistency from archived27 public USGS catalog events.\n\nFrozen acceptance: All27 retained source events,730 daily projection,24monthly ordering/full diagnostics consistent;26lagfields20numbers within1e-12 and6exactnull; four frozen anchors. All28 fixed semantic mutants rejected independent of integrity hashes. No legacy verifier execution/import because top-level2000 bootstrap is excluded. Overall verdict fail-closed on any failed count/domain/nonfinite/control/infra check.\n\nProtocol SHA256: 6de99d7e3359e06113de0148622f9a715ad8781d25baaebcb9cdd5e27829cada.\n\nLimits: Archived arithmetic only, no new catalog retrieval, model refit, bootstrap, completeness, vintage availability, prospective prediction, physical mechanism, utility or safety claim. Historical no-gain result and original broad problem status preserved. Primary USGS docs and FAQ read; Nature collection direct re-open and FAQ firstdirect request errored; noisy fresh searches do not prove absence of corrections or a broad resolution.\n\nBudget: $0, single CPU, sequential one execution each; whole preparation/research <=30minutes from20:06:38 UTC, hard stop2026-10-11 20:36:38 UTC. Preserve all failures. Static independent review and official admission before launch. No merge/deploy. Draft candidate publication and metadata CI follow without numerical replay.\n",
+  "created_at": "2026-10-11T20:24:40Z",
+  "updated_at": "2026-10-11T20:24:40Z",
+  "read_back_at": "2026-10-11T20:25:00+00:00",
+  "body_exactly_matches_frozen_registration": true
+}

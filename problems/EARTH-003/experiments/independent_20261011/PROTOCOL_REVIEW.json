@@ -1,0 +1,27 @@
+{
+  "verdict": "STATIC_PASS",
+  "scientific_execution": "NOT_RUN",
+  "legacy_checker_execution": "NOT_RUN",
+  "independent_experimental_replay": "NOT_RUN",
+  "admission": "NOT_CERTIFIED_BY_THIS_REVIEW",
+  "reviewer": "/root/independent_review",
+  "reviewed_at_utc": "2026-10-11T20:24:47Z",
+  "review_kind": "static_protocol_harness_and_source_blob_integrity",
+  "hard_deadline_utc": "2026-10-11T20:36:38Z",
+  "report": "evidence/FOURTH_STATIC_REVIEW.md",
+  "blockers": [],
+  "files": {
+    "FrontierBiology/problems/BIO-001/experiments/independent_20261011/PROTOCOL.json": "91d9ecb5b4b05d5974b8cc6fce3952da194048e4aedc733c08898adb270c0020",
+    "FrontierBiology/problems/BIO-001/experiments/independent_20261011/verify.py": "68caddeb93f20c9f3c35afd5ed745745222e8b9622b750fe3c5b735c703eda85",
+    "FrontierBiology/problems/BIO-001/experiments/independent_20261011/common.py": "067138ed5c0c93d22b4ba3a1188e32e60b6e94500477f0b05db9f26080cc976d",
+    "FrontierBiology/problems/BIO-001/experiments/independent_20261011/admission_guard.py": "bdb2e5adc78e3746d3d5969a767ad31e452e97adddf1af2fbed1cb7c4ff3eace",
+    "FrontierBiology/problems/BIO-001/experiments/independent_20261011/run_bounded.py": "ca43afe0e3cfda5f615fe2f05f5d3d00782a16999e48e2b5ced8db72fb8e86a6",
+    "FrontierBiology/problems/BIO-001/experiments/independent_20261011/SOURCE_MANIFEST.json": "1e14dc769d0b08905459d8c2871cce19d39a7e7cf1dfc4b50cd744cb0a10ae7a",
+    "FrontierEarth/problems/EARTH-003/experiments/independent_20261011/PROTOCOL.json": "6de99d7e3359e06113de0148622f9a715ad8781d25baaebcb9cdd5e27829cada",
+    "FrontierEarth/problems/EARTH-003/experiments/independent_20261011/verify.py": "b2e49393f62d3bccb9802177017132f1cd53425fec9bd821c94de76f860e8fcf",
+    "FrontierEarth/problems/EARTH-003/experiments/independent_20261011/common.py": "067138ed5c0c93d22b4ba3a1188e32e60b6e94500477f0b05db9f26080cc976d",
+    "FrontierEarth/problems/EARTH-003/experiments/independent_20261011/admission_guard.py": "bdb2e5adc78e3746d3d5969a767ad31e452e97adddf1af2fbed1cb7c4ff3eace",
+    "FrontierEarth/problems/EARTH-003/experiments/independent_20261011/run_bounded.py": "ca43afe0e3cfda5f615fe2f05f5d3d00782a16999e48e2b5ced8db72fb8e86a6",
+    "FrontierEarth/problems/EARTH-003/experiments/independent_20261011/SOURCE_MANIFEST.json": "9fbf7cc84409a30ceb7d1c02af21d43efacca835d1610c4d90a41771e9481607"
+  }
+}
